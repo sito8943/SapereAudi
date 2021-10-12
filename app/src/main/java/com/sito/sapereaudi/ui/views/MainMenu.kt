@@ -20,24 +20,23 @@ import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.components.layout.MenuColumn
 import com.sito.sapereaudi.ui.components.layout.MenuRow
 import com.sito.sapereaudi.ui.theme.ButtonSalmon
-import com.sito.sapereaudi.ui.theme.Salmon
 
 @Composable
 fun MainMenu(onClick: (Int) -> Unit?) {
-    MenuColumn() {
-        HeaderRow() {
+    MenuColumn {
+        HeaderRow {
             Header(
                 text = stringResource(id = R.string.appTitle),
             )
         }
-        MenuRow() {
+        MenuRow {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = ButtonSalmon)
                     .size(width = 250.dp, height = 70.dp),
                 onClick = { onClick(0) }) {
-                ButtonRow() {
+                ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.book),
                     )
@@ -47,14 +46,14 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        MenuRow() {
+        MenuRow {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
                 onClick = { /*TODO*/ }) {
-                ButtonRow() {
+                ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.mynotebook),
                     )
@@ -64,14 +63,14 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        MenuRow() {
+        MenuRow {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
                 onClick = { /*TODO*/ }) {
-                ButtonRow() {
+                ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.writemachine),
                     )
@@ -81,14 +80,14 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        MenuRow() {
+        MenuRow {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
                 onClick = { /*TODO*/ }) {
-                ButtonRow() {
+                ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.portrait),
                     )
