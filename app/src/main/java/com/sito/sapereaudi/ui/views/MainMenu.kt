@@ -17,28 +17,20 @@ import com.sito.sapereaudi.ui.components.button.ButtonRow
 import com.sito.sapereaudi.ui.components.button.ButtonText
 import com.sito.sapereaudi.ui.components.header.Header
 import com.sito.sapereaudi.ui.components.header.HeaderRow
+import com.sito.sapereaudi.ui.components.layout.MenuColumn
+import com.sito.sapereaudi.ui.components.layout.MenuRow
 import com.sito.sapereaudi.ui.theme.ButtonSalmon
 import com.sito.sapereaudi.ui.theme.Salmon
 
 @Composable
 fun MainMenu(onClick: (Int) -> Unit?) {
-    Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(color = Salmon),
-        verticalArrangement = Arrangement.SpaceAround
-    ) {
+    MenuColumn() {
         HeaderRow() {
             Header(
                 text = stringResource(id = R.string.appTitle),
             )
         }
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(10.dp),
-            horizontalArrangement = Arrangement.Center
-        ) {
+        MenuRow() {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
@@ -55,12 +47,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(10.dp),
-            horizontalArrangement = Arrangement.Center
-        ) {
+        MenuRow() {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
@@ -77,12 +64,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(10.dp),
-            horizontalArrangement = Arrangement.Center
-        ) {
+        MenuRow() {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
@@ -99,12 +81,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(10.dp),
-            horizontalArrangement = Arrangement.Center
-        ) {
+        MenuRow() {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
