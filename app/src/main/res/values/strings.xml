@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SapereAudi</string>
+    <string name="historyButton">Historia</string>
+    <string name="lessonsButton">Lecciones</string>
+    <string name="naturaButton">De rerum natura</string>
+    <string name="authorsButton">Autores y sus obras</string>
+</resources>
