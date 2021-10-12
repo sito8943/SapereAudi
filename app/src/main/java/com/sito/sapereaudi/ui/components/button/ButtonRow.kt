@@ -14,6 +14,8 @@ fun ButtonRow(content: @Composable (() -> Unit)?=null) {
         horizontalArrangement = Arrangement.SpaceAround,
         verticalAlignment = Alignment.CenterVertically
     ) {
-        content
+        if (content != null) {
+            content()
+        }
     }
 }

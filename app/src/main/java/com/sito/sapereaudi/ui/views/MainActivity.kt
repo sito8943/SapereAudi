@@ -15,7 +15,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             SapereAudiTheme {
-                MainMenu()
+                MainMenu(fun(value: Int){
+
+                })
             }
         }
     }

@@ -14,6 +14,8 @@ fun MenuColumn(content: @Composable (() -> Unit)?=null) {
             .background(color = Salmon),
         verticalArrangement = Arrangement.SpaceAround
     ) {
-        content
+        if (content != null) {
+            content()
+        }
     }
 }

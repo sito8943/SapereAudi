@@ -17,6 +17,8 @@ fun MenuButton(content: @Composable (() -> Unit)?=null, function: (Int) -> Unit?
             .size(width = 250.dp, height = 70.dp),
         onClick = { function }
     ) {
-        content
+        if (content != null) {
+            content()
+        }
     }
 }

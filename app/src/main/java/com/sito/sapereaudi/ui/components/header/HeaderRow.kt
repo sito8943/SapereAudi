@@ -16,6 +16,8 @@ fun HeaderRow(content: @Composable (() -> Unit)?=null) {
             .padding(vertical = 25.dp),
         horizontalArrangement = Arrangement.Center
     ) {
-        content
+        if (content != null) {
+            content()
+        }
     }
 }

@@ -23,7 +23,7 @@ import com.sito.sapereaudi.ui.theme.ButtonSalmon
 
 @Composable
 fun MainMenu(onClick: (Int) -> Unit?) {
-    MenuColumn {
+    MenuColumn ( content = {
         HeaderRow {
             Header(
                 text = stringResource(id = R.string.appTitle),
@@ -52,7 +52,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
-                onClick = { /*TODO*/ }) {
+                onClick = { onClick(1) })  {
                 ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.mynotebook),
@@ -69,7 +69,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
-                onClick = { /*TODO*/ }) {
+                onClick = { onClick(2) }) {
                 ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.writemachine),
@@ -86,7 +86,7 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                     .padding(5.dp)
                     .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
-                onClick = { /*TODO*/ }) {
+                onClick = { onClick(3) }) {
                 ButtonRow {
                     ButtonImage(
                         painter = painterResource(id = R.drawable.portrait),
@@ -97,11 +97,13 @@ fun MainMenu(onClick: (Int) -> Unit?) {
                 }
             }
         }
-    }
+    })
 }
 
 @Preview
 @Composable
 fun ShowMainMenu() {
-    MainMenu()
+    MainMenu(fun (value: Int) {
+
+    })
 }
