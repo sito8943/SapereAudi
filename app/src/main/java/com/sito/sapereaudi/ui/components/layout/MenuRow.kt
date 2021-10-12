@@ -16,6 +16,8 @@ fun MenuRow(content: @Composable (() -> Unit)?=null) {
             .padding(10.dp),
         horizontalArrangement = Arrangement.Center
     ) {
-        content
+        if (content != null) {
+            content()
+        }
     }
 }

@@ -3,6 +3,7 @@ package com.sito.sapereaudi.ui.views
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.Button
+import androidx.compose.material.ButtonDefaults
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -33,8 +34,8 @@ fun MainMenu(onClick: (Int) -> Unit?) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
-                    .background(color = ButtonSalmon)
                     .size(width = 250.dp, height = 70.dp),
+                colors = ButtonDefaults.buttonColors(backgroundColor = ButtonSalmon),
                 onClick = { onClick(0) }) {
                 ButtonRow {
                     ButtonImage(
@@ -50,8 +51,8 @@ fun MainMenu(onClick: (Int) -> Unit?) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
-                    .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
+                colors = ButtonDefaults.buttonColors(backgroundColor = ButtonSalmon),
                 onClick = { onClick(1) })  {
                 ButtonRow {
                     ButtonImage(
@@ -67,8 +68,8 @@ fun MainMenu(onClick: (Int) -> Unit?) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
-                    .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
+                colors = ButtonDefaults.buttonColors(backgroundColor = ButtonSalmon),
                 onClick = { onClick(2) }) {
                 ButtonRow {
                     ButtonImage(
@@ -84,8 +85,8 @@ fun MainMenu(onClick: (Int) -> Unit?) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
-                    .background(color = Color.Blue)
                     .size(width = 250.dp, height = 70.dp),
+                colors = ButtonDefaults.buttonColors(backgroundColor = ButtonSalmon),
                 onClick = { onClick(3) }) {
                 ButtonRow {
                     ButtonImage(
