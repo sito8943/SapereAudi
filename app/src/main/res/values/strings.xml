@@ -4,4 +4,9 @@
     <string name="lessonsButton">Lecciones</string>
     <string name="naturaButton">De rerum natura</string>
     <string name="authorsButton">Autores y sus obras</string>
+    <string name="appTitle">Sapere Audi</string>
+    <string name="historyTitle">Historia</string>
+    <string name="naturaTitle">De rerum natura</string>
+    <string name="authorsTitle">Autores y sus obras</string>
+    <string name="lessonsTitle">Lecciones</string>
 </resources>

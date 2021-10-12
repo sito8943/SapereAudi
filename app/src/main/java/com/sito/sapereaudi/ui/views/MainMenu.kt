@@ -12,20 +12,40 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.sito.sapereaudi.R
+import com.sito.sapereaudi.ui.theme.DarkBlue
+import com.sito.sapereaudi.ui.theme.Salmon
 
 @Composable
 fun MainMenu() {
     Column(
         modifier = Modifier
-            .fillMaxSize(),
-        verticalArrangement = Arrangement.Center
+            .fillMaxSize()
+            .background(color = Salmon),
     ) {
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(vertical = 25.dp),
+            horizontalArrangement = Arrangement.Center
+        ) {
+            Text(
+                text = stringResource(id = R.string.appTitle),
+                color = Color.White,
+                fontSize = 50.sp
+            )
+        }
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(10.dp),
+            horizontalArrangement = Arrangement.Center
+        ) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
-                    .background(color = Color.Blue),
+                    .background(color = DarkBlue),
                 onClick = { /*TODO*/ }) {
                 Image(
                     modifier = Modifier.padding(5.dp),
@@ -38,7 +58,12 @@ fun MainMenu() {
                 )
             }
         }
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(10.dp),
+            horizontalArrangement = Arrangement.Center
+        ) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
@@ -56,27 +81,48 @@ fun MainMenu() {
                 )
             }
         }
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(10.dp),
+            horizontalArrangement = Arrangement.Center
+        ) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = Color.Blue),
                 onClick = { /*TODO*/ }) {
                 Image(
+                    modifier = Modifier.padding(5.dp),
                     painter = painterResource(id = R.drawable.writemachine),
                     contentDescription = ""
                 )
-                Text(text = stringResource(id = R.string.naturaButton))
+                Text(
+                    modifier = Modifier.padding(5.dp),
+                    text = stringResource(id = R.string.naturaButton)
+                )
             }
         }
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(10.dp),
+            horizontalArrangement = Arrangement.Center
+        ) {
             Button(
                 modifier = Modifier
                     .padding(5.dp)
                     .background(color = Color.Blue),
                 onClick = { /*TODO*/ }) {
-                Image(painter = painterResource(id = R.drawable.portrait), contentDescription = "")
-                Text(text = stringResource(id = R.string.authorsButton))
+                Image(
+                    modifier = Modifier.padding(5.dp),
+                    painter = painterResource(id = R.drawable.portrait),
+                    contentDescription = ""
+                )
+                Text(
+                    modifier = Modifier.padding(5.dp),
+                    text = stringResource(id = R.string.authorsButton)
+                )
             }
         }
     }
