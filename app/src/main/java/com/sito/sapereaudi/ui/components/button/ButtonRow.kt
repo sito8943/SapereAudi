@@ -1,4 +1,4 @@
-package com.sito.sapereaudi.ui.components
+package com.sito.sapereaudi.ui.components.button
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

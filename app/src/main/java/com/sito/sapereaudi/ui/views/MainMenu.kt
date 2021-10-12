@@ -1,24 +1,22 @@
 package com.sito.sapereaudi.ui.views
 
-import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.Button
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.modifier.modifierLocalConsumer
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import com.sito.sapereaudi.R
-import com.sito.sapereaudi.ui.components.ButtonImage
-import com.sito.sapereaudi.ui.components.ButtonRow
-import com.sito.sapereaudi.ui.components.ButtonText
+import com.sito.sapereaudi.ui.components.button.ButtonImage
+import com.sito.sapereaudi.ui.components.button.ButtonRow
+import com.sito.sapereaudi.ui.components.button.ButtonText
+import com.sito.sapereaudi.ui.components.header.Header
+import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.theme.ButtonSalmon
 import com.sito.sapereaudi.ui.theme.Salmon
 
@@ -30,16 +28,9 @@ fun MainMenu(onClick: (Int) -> Unit?) {
             .background(color = Salmon),
         verticalArrangement = Arrangement.SpaceAround
     ) {
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(vertical = 25.dp),
-            horizontalArrangement = Arrangement.Center
-        ) {
-            Text(
+        HeaderRow() {
+            Header(
                 text = stringResource(id = R.string.appTitle),
-                color = Color.White,
-                fontSize = 50.sp
             )
         }
         Row(
