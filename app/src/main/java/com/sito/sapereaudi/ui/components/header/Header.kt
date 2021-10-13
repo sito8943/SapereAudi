@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun Header(text: String = "") {
     Text(
-        modifier = Modifier.padding(horizontal = 10.dp),
+        modifier = Modifier.padding(horizontal = 10.dp, vertical = 15.dp),
         text = text,
         color = Color.White,
         fontSize = 30.sp

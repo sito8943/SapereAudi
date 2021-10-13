@@ -8,15 +8,10 @@ import com.sito.sapereaudi.ui.components.header.Header
 import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.components.layout.MenuColumn
 
+@Preview
 @Composable
 fun HistoryView() {
     MenuColumn {
         HeaderRow (text = stringResource(id = R.string.historyTitle))
     }
-}
-
-@Preview
-@Composable
-fun ShowHistoryView() {
-
 }

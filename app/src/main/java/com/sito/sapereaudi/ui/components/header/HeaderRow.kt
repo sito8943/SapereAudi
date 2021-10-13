@@ -16,7 +16,6 @@ fun HeaderRow(text: String = "") {
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .height(50.dp)
             .padding(bottom = 20.dp)
             .background(ButtonSalmon),
         horizontalArrangement = Arrangement.Start
