@@ -12,7 +12,6 @@ fun MenuColumn(content: @Composable (() -> Unit)?=null) {
         modifier = Modifier
             .fillMaxSize()
             .background(color = Salmon),
-        verticalArrangement = Arrangement.SpaceAround
     ) {
         if (content != null) {
             content()

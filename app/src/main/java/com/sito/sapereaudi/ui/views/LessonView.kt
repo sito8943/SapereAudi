@@ -10,10 +10,6 @@ import com.sito.sapereaudi.ui.components.layout.MenuColumn
 @Composable
 fun LessonView() {
     MenuColumn {
-        HeaderRow {
-            Header(
-                text = stringResource(id = R.string.lessonsTitle),
-            )
-        }
+        HeaderRow (text = stringResource(id = R.string.lessonsTitle))
     }
 }

@@ -11,11 +11,7 @@ import com.sito.sapereaudi.ui.components.layout.MenuColumn
 @Composable
 fun HistoryView() {
     MenuColumn {
-        HeaderRow {
-            Header(
-                text = stringResource(id = R.string.historyTitle),
-            )
-        }
+        HeaderRow (text = stringResource(id = R.string.historyTitle))
     }
 }
 
