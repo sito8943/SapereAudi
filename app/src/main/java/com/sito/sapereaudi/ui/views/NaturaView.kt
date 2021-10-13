@@ -10,10 +10,6 @@ import com.sito.sapereaudi.ui.components.layout.MenuColumn
 @Composable
 fun NaturaView() {
     MenuColumn {
-        HeaderRow {
-            Header(
-                text = stringResource(id = R.string.naturaTitle),
-            )
-        }
+        HeaderRow (text = stringResource(id = R.string.naturaTitle))
     }
 }
