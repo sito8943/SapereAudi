@@ -30,16 +30,16 @@ fun Navigation() {
             }, navController = navController)
         }
         composable(route = Screen.History.route) {
-            HistoryView()
+            HistoryView(navController = navController)
         }
         composable(route = Screen.Lessons.route) {
-            LessonView()
+            LessonView(navController = navController)
         }
         composable(route = Screen.Natura.route) {
-            NaturaView()
+            NaturaView(navController = navController)
         }
         composable(route = Screen.Authors.route) {
-            AuthorsView()
+            AuthorsView(navController = navController)
         }
     }
 }

@@ -21,7 +21,7 @@ import com.sito.sapereaudi.ui.theme.ButtonSalmon
 @Composable
 fun MainMenu(onClick: (Int) -> Unit?, navController: NavController) {
     MenuColumn {
-        HeaderRow(text = stringResource(id = R.string.appTitle))
+        HeaderRow(text = stringResource(id = R.string.appTitle), navController = navController)
         Column(modifier = Modifier
             .fillMaxSize(),
             verticalArrangement = Arrangement.SpaceAround

@@ -2,15 +2,14 @@ package com.sito.sapereaudi.ui.views
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.tooling.preview.Preview
+import androidx.navigation.NavController
 import com.sito.sapereaudi.R
 import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.components.layout.MenuColumn
 
-@Preview
 @Composable
-fun HistoryView() {
+fun HistoryView(navController: NavController) {
     MenuColumn {
-        HeaderRow (text = stringResource(id = R.string.historyTitle))
+        HeaderRow (backOn = "main_screen", navController = navController, text = stringResource(id = R.string.historyTitle))
     }
 }
