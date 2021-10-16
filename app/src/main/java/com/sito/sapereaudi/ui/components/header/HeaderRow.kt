@@ -20,7 +20,7 @@ fun HeaderRow(backOn: String = "",text: String = "", navController: NavControlle
         horizontalArrangement = Arrangement.Start,
         verticalAlignment = Alignment.CenterVertically
     ) {
-        if (!backOn.isEmpty()) {
+        if (backOn.isNotEmpty()) {
             BackButton(navController = navController, whereTo = backOn)
         }
         Header(
