@@ -5,6 +5,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.sito.sapereaudi.R
 import com.sito.sapereaudi.ui.components.header.HeaderRow
@@ -32,10 +33,12 @@ fun createLesson(max: Int) {
     var i = 0
     while (i < max) {
         Row(
-            modifier = Modifier.fillMaxWidth()
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(vertical = 5.dp, horizontal = 15.dp)
         ) {
             Text(
-                text = (R.string.lessonObj.toString() + " " + i.toString())
+                text = ("Lección $i")
             )
         }
         i++
