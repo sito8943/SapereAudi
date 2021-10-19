@@ -1,11 +1,15 @@
 package com.sito.sapereaudi.ui.views
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.sito.sapereaudi.R
 import com.sito.sapereaudi.ui.components.header.HeaderRow
@@ -23,24 +27,33 @@ fun LessonView(navController: NavController) {
             modifier = Modifier.fillMaxSize(),
             verticalArrangement = Arrangement.SpaceAround
         ) {
-            createLesson(35)
+            createLesson(35, navController)
         }
     }
 }
 
 @Composable
-fun createLesson(max: Int) {
+fun createLesson(max: Int, navController: NavController) {
     var i = 0
+    var lessonList = ArrayList<Int>()
     while (i < max) {
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(vertical = 5.dp, horizontal = 15.dp)
-        ) {
-            Text(
-                text = ("Lección $i")
-            )
-        }
+        lessonList.add(i + 1)
         i++
     } //while
+    LazyColumn(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(vertical = 5.dp, horizontal = 15.dp)
+    ) { items(items = lessonList, itemContent= { item ->
+        Text(
+            text = ("Lección $item"),
+            fontSize = 25.sp,
+            modifier = Modifier.clickable (enabled = true){
+                navController.navigate("Lesson$item")
+            }
+                .padding(vertical = 5.dp, horizontal = 15.dp),
+        )
+    })
+
+    }
 }
