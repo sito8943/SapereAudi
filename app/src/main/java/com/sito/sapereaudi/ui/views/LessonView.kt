@@ -51,7 +51,7 @@ fun createLesson(max: Int, navController: NavController) {
             modifier = Modifier.clickable (enabled = true){
                 navController.navigate("Lesson$item")
             }
-                .padding(vertical = 5.dp, horizontal = 15.dp),
+                .padding(vertical = 10.dp, horizontal = 15.dp),
         )
     })
 
