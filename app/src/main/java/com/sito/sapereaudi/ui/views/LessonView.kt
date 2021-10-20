@@ -57,7 +57,7 @@ fun createLesson(max: Int, navController: NavController) {
                 },
             ) {
                 Text(
-                    text = ("Lección$item"),
+                    text = ("Lección $item"),
                     fontSize = 25.sp,
                     color = Color.White
                 )
