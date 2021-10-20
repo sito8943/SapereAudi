@@ -4,10 +4,12 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.material.ButtonDefaults
 import androidx.compose.material.Text
 import androidx.compose.material.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -52,11 +54,12 @@ fun createLesson(max: Int, navController: NavController) {
                 modifier = Modifier.padding(vertical = 10.dp, horizontal = 15.dp),
                 onClick = {
                     navController.navigate(Screen.LessonView.withArgs(item.toString()))
-                }
+                },
             ) {
                 Text(
                     text = ("Lección$item"),
                     fontSize = 25.sp,
+                    color = Color.White
                 )
             }
         })
