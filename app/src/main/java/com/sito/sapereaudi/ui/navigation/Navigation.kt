@@ -46,13 +46,13 @@ fun Navigation() {
         composable(route = Screen.LessonView.route + "/{string}",
          arguments = listOf(
                 navArgument("lesson") {
-                    type = NavType.IntType
-                    defaultValue = 1
+                    type = NavType.StringType
+                    defaultValue = "1"
                     nullable = true
                 }
          )
         ) { entry ->
-            entry.arguments?.getInt("lesson")?.let { LessonPage(lesson = it, navController = navController) }
+            entry.arguments?.getString("lesson")?.let { LessonPage(lesson = it, navController = navController) }
         }
     }
 }

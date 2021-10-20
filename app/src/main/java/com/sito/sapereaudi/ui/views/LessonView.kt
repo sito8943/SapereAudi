@@ -13,6 +13,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.sito.sapereaudi.R
+import com.sito.sapereaudi.ui.Screen
 import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.components.layout.MenuColumn
 
@@ -50,11 +51,11 @@ fun createLesson(max: Int, navController: NavController) {
             TextButton(
                 modifier = Modifier.padding(vertical = 10.dp, horizontal = 15.dp),
                 onClick = {
-                    navController.navigate("Lesson$item")
+                    navController.navigate(Screen.LessonView.withArgs(item.toString()))
                 }
             ) {
                 Text(
-                    text = ("Lección $item"),
+                    text = ("Lección$item"),
                     fontSize = 25.sp,
                 )
             }

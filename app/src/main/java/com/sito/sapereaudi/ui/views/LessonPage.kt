@@ -3,6 +3,7 @@ package com.sito.sapereaudi.ui.views
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
@@ -12,18 +13,13 @@ import com.sito.sapereaudi.ui.components.header.HeaderRow
 import com.sito.sapereaudi.ui.components.layout.MenuColumn
 
 @Composable
-fun LessonPage(navController: NavController, lesson: Int = 1) {
+fun LessonPage(navController: NavController, lesson: String = "1") {
     MenuColumn {
         HeaderRow(
-            backOn = "main_screen",
+            backOn = "lesson_screen",
             navController = navController,
             text = stringResource(id = R.string.lessonsTitle)
         )
-        Column(
-            modifier = Modifier.fillMaxSize(),
-            verticalArrangement = Arrangement.SpaceAround
-        ) {
-            createLesson(35, navController)
-        }
+        Text(text = lesson)
     }
 }
