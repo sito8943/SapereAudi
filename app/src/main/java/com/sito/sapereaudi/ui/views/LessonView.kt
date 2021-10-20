@@ -59,6 +59,5 @@ fun createLesson(max: Int, navController: NavController) {
                 )
             }
         })
-
     }
 }
