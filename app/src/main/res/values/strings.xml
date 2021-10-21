@@ -14,28 +14,28 @@
     <string name="goBack">Ir a ventana anterior</string>
     <string name="lessonObj">Lección</string>
     <string-array name="authors">
-        <string>
+        <item>
 
-        </string>
+        </item>
     </string-array>
     <string-array name="history">
-        <string name="hA1">
+        <item name="hA1">
             Expansión del Latín
-        </string>
+        </item>
     </string-array>
     <string-array name="hAList">
         <string-array name="hAl1">
-            <string name="hAl1a">
+            <item name="hAl1a">
                 Expansión del Latín
-            </string>
-            <string name="hAl1b">
+            </item>
+            <item name="hAl1b">
                 Principales Lenguas Romances
-            </string>
+            </item>
         </string-array>
     </string-array>
     <string-array name="natura">
-        <string>
+        <item>
 
-        </string>
+        </item>
     </string-array>
 </resources>
