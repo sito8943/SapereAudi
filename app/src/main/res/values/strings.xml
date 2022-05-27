@@ -13,29 +13,2052 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="goBack">Ir a ventana anterior</string>
     <string name="lessonObj">Lección</string>
-    <string-array name="authors">
-        <item>
-
-        </item>
-    </string-array>
-    <string-array name="history">
-        <item name="hA1">
-            Expansión del Latín
-        </item>
-    </string-array>
-    <string-array name="hAList">
-        <string-array name="hAl1">
-            <item name="hAl1a">
-                Expansión del Latín
-            </item>
-            <item name="hAl1b">
-                Principales Lenguas Romances
-            </item>
-        </string-array>
-    </string-array>
-    <string-array name="natura">
-        <item>
-
-        </item>
-    </string-array>
+    <string name="lesson1">
+        **Aspectos generales  para el estudio de la gramática latina.**\n
+                \n
+                Como en castellano, también el latín la gramática tiene tres partes fundamentales: \n
+                \n
+                •  Fonética: es la ciencia que estudia los sonidos de las palabras. \n
+                \n
+                •  Morfología: es la ciencia que estudia las palabras y sus formas. \n
+                \n
+                •  Sintaxis: es la ciencia que estudia cómo funcionan las palabras en la frase y la unión de las frases entre sí. \n
+                \n
+                El abecedario latino \n
+                \n
+                El alfabeto castellano proviene del latino, por eso las letras diferentes entre ambos idiomas son muy pocas. \n
+                \n
+                - Historia. \n
+                \n
+                •  Época clásica (Cicerón, César, siglo I a.C.): \n
+                \n
+                \\- El abecedario sólo tenía 21 letras. \n
+                \n
+                \\- Se usaban las mayúsculas o capitales: \n
+                \n
+                A B C D E F G H I J K L N M O P Q R S T V X \n
+                \n
+                \\- Poco después se añaden Y y Z para palabras tomadas del griego. \n
+                \n
+                \\- Las minúsculas se usaron desde muy antiguo iguales o muy parecidas a las castellanas. \n
+                \n
+                •  Edad Media (siglos VII-XV): Los gramáticos añaden: \n
+                \n
+                \\- La  i en sonido consonante (como por ejemplo en  hierba[yerba]) para diferenciarlo del vocálico. En algunos textos \n
+                \n
+                puede aparecer el signo j para expresar el sonido i semiconsonántico. \n
+                \n
+                \\- El signo upara expresar la v vocálica. \n
+                \n
+                \\- I y v habían desempeñado hasta entonces ambas funciones (Flavivs = Flavius; iam) \n
+                \n
+                \\- El número de las letras queda fijado en 25. \n
+                \n
+                Las vocales y su cantidad \n
+                \n
+                El latín tiene las mismas vocales que el castellano: \n
+                \n
+                Castellano a e i o u \n
+                \n
+                Latín a e i o u/v \n
+                \n
+                Su pronunciación es también igual. Pero los romanos distinguían entre vocales largas y breves, según el tiempo empleado en su pronunciación. \n
+                \n
+                Una misma vocal puede ser larga o breve. Los gramáticos las distinguen con los siguientes signos: \n
+                \n
+                Largas ā ē ī ō ū \n
+                \n
+                Breves ă ĕ ĭ ŏ ŭ \n
+                \n
+                Esta distinción es muy importante para la poesía latina, que se basa en la sucesión rítmica de vocales y sílabas largas y breves. \n
+                \n
+                No eran rimas comunes. \n
+                \n
+                **Los diptongos y su pronunciación** \n
+                \n
+                Los diptongos latinos son: ae,  oe,  au,  ei,  ui. Su pronunciación es la misma que en castellano. Sin embargo, grupos como  ia,  iu,  ie no son diptongos y hay que pronunciar sus dos elementos por separado:  di-em; lili-us; fili-a. \n
+                \n
+                En la pronunciación clásica de los grupos ae, oe, suenan sus dos elementos, en la pronunciación tardía se pronuncian solo como e. \n
+                \n
+                **Las consonantes y su pronunciación** \n
+                \n
+                No hay acuerdo total sobre su pronunciación exacta. Recientemente se han establecido unas normas para  la pronunciación clásica, pero en cada país utilizan sonidos parecidos a los de su propia lengua moderna. La pronunciación del latín eclesiástico utiliza la pronunciación romana. \n
+                \n
+                **Reglas de pronunciación de las consonantes.** \n
+                \n
+                •  Cuatro sonidos del castellano no tienen correspondencia en latín: j, ch, ll, ñ. \n
+                \n
+                •  La  use pronuncia siempre, incluso en los grupos como  gue,  gui;  que,  qui. Ejemplo:  sanguis (sangüis);  eques (ecues); \n
+                \n
+                Aquila (acuila). \n
+                \n
+                •  La  h se pronunciaba con una aspiración suave, parecida  a la  h andaluza. Pero se la considera como muda en la \n
+                \n
+                práctica. \n
+                \n
+                •  Ph se pronuncia como f. Ejemplo: philosophia (filosofia) \n
+                \n
+                •  Ch siempre se pronuncia como k. Ejemplo: chorus (korus) \n
+                \n
+                •  En los grupos th, rh, la h era muda y no se pronuncia. Ejemplo: rhetor (retor); Theatrum (teatrum). \n
+                \n
+                •  C se pronuncia siempre como  k, incluso en los grupos que en castellano tiene pronunciación suave (ce,  ci). Ejemplo: \n
+                \n
+                Cicero (Kikero) \n
+                \n
+                •  G también se pronuncia siempre como suave incluso en los grupos  gue,  gui. No se pronuncia como  j. Ejemplo: gens\n
+                \n
+                (guens); gigno(guigno) \n
+                \n
+                •  Ll se pronuncia como doble l. Ejemplo: illa (il-la) \n
+                \n
+                **La acentuación** \n
+                \n
+                La acentuación latina es distinta de la nuestra. Consiste, no en una mayor intensidad de voz de la sílaba acentuada, sino en una elevación del tono, como una nota más aguda. No existe en latín signo de acentuación. \n
+                \n
+                Las reglas de acentuación son complejas, pero como regla general podemos decir que se acentúan la penúltima sílaba si ésta es larga, y en la antepenúltima si la penúltima es breve. Por eso se denomina la regla de la penúltima. \n
+                \n
+                Hay además un grupo de enclíticos, monosílabos que  se unen a la palabra anterior sobre la que recae el acento. Hay que traducirlos delante. Ejemplo: ex Patre Filioque procedit «procede del Padre y del Hijo». Los principales enclíticos son: -que «y»; -ve\n
+                \n
+                «o»; -ne «acaso»; y a veces –cum «con». \n
+                \n
+                **Tema 2. Elementos de la oración**\n
+                \n
+                Toda esta parte es un repaso de lo que ya has estudiado en lengua española en cursos anteriores, y las diferencias entre el latín y el castellano son muy pequeñas. \n
+                \n
+                Oración: es el conjunto de palabras con las que expresamos un pensamiento. Ejemplo:  regina legit libros philosophiae regi «la reina lee libros de filosofía al rey» \n
+                \n
+                La oración puede ser simple si consta de un solo verbo. Ejemplo: puer ludit «el niño juega»; o compuesta, si tiene más de un verbo. Ejemplo: puer ludit et currit «el niño juega y corre». \n
+                \n
+                **Partes de la oración** \n
+                \n
+                Son las diferentes clases de palabras que pueden formarla. Salvo el artículo que no existe en latín, el latín y el castellano tienen \n
+                \n
+                las mismas partes de la oración: \n
+                \n
+                Variables Invariables \n
+                \n
+                sustantivo  rosa«rosa» \n
+                \n
+                adverbio  hodie«hoy» \n
+                \n
+                adjetivo  bona«buena» \n
+                \n
+                preposición  in«en» \n
+                \n
+                pronombre  ego, tu, «yo, tu» \n
+                \n
+                conjunción  si«si» \n
+                \n
+                verbo  amo, lego«amo, leo» \n
+                \n
+                interjección  o!«oh!» \n
+                \n
+                Variables son las partes de la oración que admiten varias terminaciones o desinencias. \n
+                \n
+                Invariables son las partes de la oración que no cambian. \n
+                \n
+                Palabras Variables \n
+                \n
+                •  Sustantivo o nombre \n
+                \n
+                Igual que en castellano el sustantivo es la palabra que designa personas «Caesar», animales «leo, león» o cosas «arma, \n
+                \n
+                armas». Se caracteriza por que tiene género propio. Se divide igual que en castellano. Aquí te recordamos algunas de ellas: \n
+                \n
+                \\- común: templum «templo» \n
+                \n
+                \\- propio: Caesar «César» \n
+                \n
+                \\- colectivo: exercitus «ejército» \n
+                \n
+                \\- partitivo: dimidium «mitad» \n
+                \n
+                **•  Adjetivo** \n
+                \n
+                Es la palabra que determina al sustantivo. Se caracteriza por concordar con él en género, número y en latín además en caso. \n
+                \n
+                Se divide en: \n
+                \n
+                \\- Calificativo: bonus, bona, bonum «bueno» \n
+                \n
+                \\- Determinativo: magnus, magna, magnum «grande» \n
+                \n
+                \\* Demostrativos: hic «éste» \n
+                \n
+                \\* Posesivos: meus «mío» \n
+                \n
+                \\* Numerales: unus «uno» \n
+                \n
+                \\* Indefinidos: aliquis «alguno» \n
+                \n
+                **•  Pronombre** \n
+                \n
+                Es la parte de la oración que sustituye al nombre y evita su repetición. Se clasifican también igual que en castellano: \n
+                \n
+                \\- Personales: ego, tu, is«yo, tu él» \n
+                \n
+                \\- Posesivos: meus, tuus, suus«mío, tuyo, suyo» \n
+                \n
+                \\- Demostrativos: hic, iste, ille«este, ese, aquel» \n
+                \n
+                \\- Relativos: qui, quae, quod«el cual» \n
+                \n
+                \\- Interrogativos: quis «¿quién?» \n
+                \n
+                **•  Verbo** \n
+                \n
+                Es la parte de la oración que indica acción (curro, «corro», pasión (gaudeo, «me alegro») o estado (sto, «estoy en pie»). \n
+                \n
+                Llama la atención el uso de formas pasivas con sentido activo que existen en latín pero no en castellano, son los denominados verbos deponentes (confiteor, «yo confieso»). \n
+                \n
+                Palabras invariables \n
+                \n
+                Son aquellas que presentan siempre la misma forma. Son las mismas que en castellano y con las mismas funciones: \n
+                \n
+                •  Adverbio \n
+                \n
+                •  Preposición \n
+                \n
+                •  Conjunción \n
+                \n
+                •  Interjección\n
+                \n
+                **Tema 3. Elementos de las palabras**\n
+                \n
+                En latín, lo mismo que en castellano, enuna palabrapueden distinguirse varios elementos. Fíjate en estas palabras: \n
+                \n
+                Amo - amicus - amicitia - peramabilis(latín) \n
+                \n
+                Mar - marino - marinería - submarino (castellano) \n
+                \n
+                No te será difícil darte cuenta de que tanto la serie de palabras latinas como en las castellanas tienen elementos comunes y no \n
+                \n
+                comunes. \n
+                \n
+                **La raíz** \n
+                \n
+                Es el elemento común a una serie de palabras. Da el sentido general de todas ellas: \n
+                \n
+                Am-: amar en las latinas \n
+                \n
+                Mar: en las castellanas \n
+                \n
+                Es importante que te acostumbres pronto a saber el significado fundamental de las raíces más usadas. Te ayudará a entender el vocabulario. \n
+                \n
+                **Sufijos** \n
+                \n
+                Son la letra o las letras que se colocan detrás de  la raíz. Forman palabras derivadas de una raíz. Completan el significado de la \n
+                \n
+                raíz. Sufijos latinos: \n
+                \n
+                Sufijo Significado Ejemplo Traducción \n
+                \n
+                -tor, -trix  autor de la acción  orator  «el que habla» \n
+                \n
+                -torium, -bulum  lugar de la acción  auditorium  «auditorio» \n
+                \n
+                -itia, -tudo  estado, cualidad  amicitia  «amistad» \n
+                \n
+                -ullus,-culus,-illus  diminutivos  parvulus  «pequeño» \n
+                \n
+                -bilis  posibilidad, estado  amabilis  «amable» \n
+                \n
+                **Prefijos** \n
+                \n
+                Son la letra o las letras que se anteponen a la raíz. Tienen el mismo valor que los sufijos. Son también frecuentes e importantes: \n
+                \n
+                Prefijo Significado Ejemplo Traducción \n
+                \n
+                prae-  por delante  prae-mitto  «enviar delante» \n
+                \n
+                per-  por completo  per-amabilis  «muy amable» \n
+                \n
+                re-  de nuevo  re-corro  «recorro» \n
+                \n
+                **El radical** \n
+                \n
+                Es la raíz con prefijos o sufijos. En las palabras simples (ni derivadas ni compuestas) la raíz y el radical son iguales. Ejemplo: mar. \n
+                \n
+                **Desinencias** \n
+                \n
+                Son las últimas letras de una palabra variable. Sirven para expresar los accidentes gramaticales. En latín son más importantes y numerosas que en castellano. La desinencia en latín es el primer elemento que debes atender. \n
+                \n
+                **Accidentes gramaticales** \n
+                \n
+                Son los cambios de las palabras variables en su terminación. Expresan: \n
+                \n
+                \\- En el nombre, adjetivo y pronombre: \n
+                \n
+                \\* el género \n
+                \n
+                \\* el número \n
+                \n
+                \\* el caso o función en la frase. \n
+                \n
+                \\- En el verbo son los mismos que en castellano: \n
+                \n
+                \\* Voz \n
+                \n
+                \\* Modo \n
+                \n
+                \\* Tiempo \n
+                \n
+                \\* Persona \n
+                \n
+                \\* Número \n
+                \n
+                **Tema 4. Accidentes gramaticales del nombre**\n
+                \n
+                El Género \n
+                \n
+                Como en castellano, puede ser: \n
+                \n
+                Masculino Femenino Neutro \n
+                \n
+                Nombres y profesiones de varón: \n
+                \n
+                Medicus «médico» \n
+                \n
+                Nombres y profesiones de mujer: \n
+                \n
+                Claudia «Claudia» \n
+                \n
+                Animales machos: gallus«gallo» Animales hembras: gallina«gallina» \n
+                \n
+                Meses: martius«marzo» Árboles y plantas: rosa«rosa» \n
+                \n
+                Ríos, mares, vientos y montes: Iberus\n
+                \n
+                «Ebro»; Cefirus«Céfiro» \n
+                \n
+                Territorios: Gallia«Galia»; Roma\n
+                \n
+                «Roma»; Sicilia«Sicilia» \n
+                \n
+                Pueblos: Hispani«los españoles» \n
+                \n
+                Ciencias y artes: philosophia\n
+                \n
+                «filosofía»; rhetorica«retórica» \n
+                \n
+                (ne-uter: «ni uno ni otro») ni \n
+                \n
+                masculino ni femenino, se usa, en \n
+                \n
+                general, para seres inanimados: \n
+                \n
+                templum«templo» \n
+                \n
+                **El número** \n
+                \n
+                Singular o plural: rosa«la rosa»; rosae«las rosas» \n
+                \n
+                El singular tiene un significado distinto que el plural en algunas palabras: \n
+                \n
+                **Singular Plural** \n
+                \n
+                Auxilium,-ii Auxilio Auxilia,-orum «tropas auxiliares» \n
+                \n
+                Castrum,-i Fortaleza Castra,-orum «campamento» \n
+                \n
+                Copia,-ae Abundancia Copiae,-arum «tropas» \n
+                \n
+                Finis,-is límite Fines,-ium «territorio» \n
+                \n
+                Ops,opis ayuda Opes-ium «riqueza» \n
+                \n
+                Pars,partis Parte Partes,-ium «partido político» \n
+                \n
+                Vigilia,-ae Vigilia Vigiliae,-arum «centinelas de noche» \n
+                \n
+                Algunas palabras muy usadas no tienen singular: \n
+                \n
+                Divitiae,-arum «riquezas» \n
+                \n
+                Insidiae,-arum «embosquada» \n
+                \n
+                Moenia,-arum «muralla» \n
+                \n
+                Arma,-orum «armas» \n
+                \n
+                Preces,-ium «oración» \n
+                \n
+                Pars,partis «parte» \n
+                \n
+                Liberi,-orum «hijos» \n
+                \n
+                **El caso** \n
+                \n
+                Es el accidente gramatical que indica el papel de la palabra en la frase. El latín y el castellano difieren en este punto. En castellano: \n
+                \n
+                \\- El artículo ayuda a precisar los accidentes gramaticales \n
+                \n
+                \\- Ordinariamente la función de la palabra depende de: \n
+                \n
+                \\1) su posición en la frase \n
+                \n
+                \\2) la preposición que lleva delante: la casa de Pedro tiene dos enchufes para la radio. \n
+                \n
+                \\- Pero sólo muy rara vez de una variación en la palabra misma (yo, me) \n
+                \n
+                **En latín:** \n
+                \n
+                \\- No hay artículo \n
+                \n
+                \\- La palabra cambia la terminación según los casos \n
+                \n
+                \\- El orden de las palabras puede variar \n
+                \n
+                Deus creavit terram - Creavit Deus terram - Terram Deus creavit \n
+                \n
+                Deus terram creavit - Creavit terram Deus - Terram creavit Deus \n
+                \n
+                Estas seis frases tienen el mismo significado y las seis son posibles en latín. Usa preposiciones en la declinación, pero puede prescindir de ellas, porque la terminación de las palabras, o desinencia, basta para indicar todos los accidentes gramaticales: \n
+                \n
+                Castellano                       Latín \n
+                \n
+                Usa preposiciones de la rosa Puede prescindir de ellas  rosae \n
+                \n
+                La terminación no varía de la rosa La terminación varía  rosae \n
+                \n
+                Receta fundamental \n
+                \n
+                Ante una frase en latín hay que descubrir, por sus  terminaciones, el valor gramatical de cada palabra  y su función en la frase. \n
+                \n
+                Jamás entenderás una frase si no has descubierto por sus terminaciones el papel de las palabras: \n
+                \n
+                Nocte facile Caesar Rhodanum transiit \n
+                \n
+                Caesar: nominativo, sujeto \n
+                \n
+                Transiit: verbo, 3ª persona, singular \n
+                \n
+                Rhodanum: acusativo, regido por el verbo \n
+                \n
+                Nocte: ablativo, complemento circunstancial \n
+                \n
+                Facile: adverbio, complemento circunstancial \n
+                \n
+                «César pasó el Ródano fácilmente de noche» \n
+                \n
+                El orden de las palabras en la frase \n
+                \n
+                Es otro rasgo muy distinto en ambas lenguas. El castellano tiende a un orden lógico en la frase: \n
+                \n
+                Un niño coge nidos para su hermano en los árboles del bosque \n
+                \n
+                Sujeto verbo C.D CI  CC \n
+                \n
+                El latín puede y suele prescindir de este orden lógico. Puede hacerlo sin inducir a errores, porque las desinencias ponen de relieve la función de cada palabra. \n
+                \n
+                El hipérbaton Consiste en invertir el orden normal de las palabras en la frase. El latín lo usa mucho. Con todo, dentro de la libertad, hay cierta tendencia a colocar: \n
+                \n
+                \\- el sujeto en la cabeza de la frase \n
+                \n
+                \\- el verbo en último lugar \n
+                \n
+                \\- los complementos más o menos próximos a él, segúnsu importancia. \n
+                \n
+                Caesar celeriter magna Haeduis pacem dedit \n
+                \n
+                Sujeto CC CI CD verbo \n
+                \n
+                El hipérbaton no es exclusivo del latín. También seda en castellano, sobre todo en poesía: Del salón en el ángulo oscuro… \n
+                \n
+                **Tema 5. Las declinaciones latinas**\n
+                \n
+                Los nombres, adjetivos y pronombres se declinan. Los verbos se conjugan. Esto quiere decir que toman una serie de formas y terminaciones distintas para expresar sus accidentes gramaticales. Declinar es enumerar todos los casos que tiene un nombre, adjetivo o pronombre. \n
+                \n
+                **Declinación de sustantivos** \n
+                \n
+                En latín hay 5 declinaciones para los sustantivos.  Se las distingue por la terminación de su genitivo  singular. De todo sustantivo debes aprender su nominativo y genitivo singular. Aquí tienes las desinencias del genitivo singular de cada declinación: \n
+                \n
+                1ª 2ª 3ª 4ª 5ª \n
+                \n
+                Nominativo -a -us,-er,-ir,-um (varía) -us,-u -es \n
+                \n
+                Genitivo -ae -i -is -us -ei \n
+                \n
+                **Declinación de adjetivos** \n
+                \n
+                Se declinan igual que los sustantivos. Hay dos clases: \n
+                \n
+                \\-  Primera clase: de tres terminaciones para cada género. Declinan  su masculino y neutro por la segunda declinación y el \n
+                \n
+                femenino por la primera. Ejemplo: \n
+                \n
+                bonus, bona, bonum«bueno» \n
+                \n
+                liber, libera, liberum  «libre» \n
+                \n
+                \\-  Segunda clase: de tres, dos y una terminación (masculino, femenino y neutro). Se declinan todos por la tecera \n
+                \n
+                declinación. Ejemplo: \n
+                \n
+                acer, acris, acre«amargo» \n
+                \n
+                fortis, forte  «fuerte» \n
+                \n
+                prudens  «prudente» \n
+                \n
+                **Declinación de los pronombres** \n
+                \n
+                La mayoría tienen una declinación especial. Su genitivo suele ser  –ius; su dativo singular  –i para los tres géneros. Ejemplo: eius, ei.\n
+                \n
+                **Los casos** \n
+                \n
+                En latín, como en castellano hay seis casos. Sus nombres son los mismos que en castellano: \n
+                \n
+                •  Nominativo: caso del sujeto y del predicado nominal: rosa est alba «la rosa es blanca» \n
+                \n
+                •  Vocativo: caso para llamar a alguien o invocarlo: rosa, te admiro «rosa, te admiro» \n
+                \n
+                •  Acusativo: caso del complemento directo: habeo multas rosas«tengo muchas rosas» \n
+                \n
+                •  Genitivo: caso del complemento del nombre: odor rosae est gratus«el olor de la rosa es agradable» \n
+                \n
+                •  Dativo: caso del complemento indirecto: arbori dant mbram rosis«los árboles dan sombra a las rosas» \n
+                \n
+                •  Ablativo: caso de los complementos circunstanciales: \n
+                \n
+                o  de origen: odor ex rosis «el aroma procede de las rosas» \n
+                \n
+                o  de lugar: in Hispania «en España» \n
+                \n
+                o  de medio: ornata rosis «adornada con rosas» \n
+                \n
+                o  de causa: laetor rosis «me alegro por las rosas» \n
+                \n
+                o  de compañía: venire cum rosis «venir con rosas» \n
+                \n
+                •  Existía un séptimo caso, llamado locativo que estudiaremos más adelante al hablar de los complementos circunstanciales de lugar.\n
+                \n
+                |**Casos latinos**|**Correlación de traducción**|\n
+                | - | - |\n
+                |<p>**Nominativo**</p><p></p><p>` `Por ejemplo:</p><p>**Rosa** est rubra</p><p>**Dominus** amat dominae</p>|<p>Indica siempre sujeto en la sintaxis latina tanto en el Sg. Como en el Pl. Se traduce con el empleo de las formas de los artículos tanto para el género masculino y femenino.</p><p>***La rosa*** es roja.</p><p>***El señor*** ama a la señora</p>|\n
+                |<p>**Vocativo**</p><p>**Puella**, noli intrare antrum</p>|<p>Invocación, llamada..</p><p>**¡Niña**, no entres a la cueva!</p>|\n
+                |<p>**Acusativo**</p><p>Magister ***grammaticam*** docet</p>|<p>Corresponde al complemento directo en español.</p><p>El maestro enseña **gramática**</p>|\n
+                |<p>**Genitivo.**</p><p>Puer **domini** cenat.</p>|<p>Indica pertenencia, complemento de nombre.</p><p>El niño (hijo) ***del señor*** cena</p>|\n
+                |<p>**Dativo.**</p><p>Magister grammaticam docet **discipulis**</p>|<p>Indica complemento indirecto.</p><p>El maestro enseña gramática **a los niños.**</p>|\n
+                |<p>**Ablativo.**</p><p>Dominus necat  cervos *cum* **sagitta**.</p>|<p>Indica complemento circunstancial.</p><p>El señor mata a los ciervos ***con las flechas.***</p>|\n
+                \n
+    </string>
+    <string name="lesson2">
+        **1**RA  **DECLINACION**\n
+                \n
+                \n
+                Esta agrupa a sustantivos femeninos y algunos masculinos de tema en –a.\n
+                \n
+                Terminaciones:\n
+                \n
+                \n
+                |**Caso**|**Singular**|**Plural**|\n
+                | - | - | - |\n
+                |Nom.|-a|-ae|\n
+                |Voc.|-a|-ae|\n
+                |Ac.|-am|-as|\n
+                |Gen.|-ae|-arum|\n
+                |Dat.|-ae|-is|\n
+                |Ab.|-a|-is|\n
+                \n
+                Observaciones \n
+                \n
+                Algunas palabras carecen de la declinación entera: \n
+                \n
+                \\- Carecen de plural. Ejemplo: diligentia,-ae«diligencia». \n
+                \n
+                \\- Carecen de singular. Ejemplo:  angustiae,-arum «desfiladero». También carecen de singular algunos nombres de ciudad. \n
+                \n
+                Ejemplo: Athenae,-arum«Atenas». En castellano se usan sólo en plural o preferentemente en plural. \n
+                \n
+                \\- Cambian de significado al cambiar de número. Ejemplo: copia,-ae «abundancia» / copiae,-arum «tropas». \n
+                \n
+                •  Se conservan restos de un séptimo caso llamado locativo que indicaba el lugar en donde se desarrolla un proceso. Sólo pervive en cierta clase de nombres propios, sin plural, como ciudades e islas menores, y en contadas expresiones comunes fijadas por el uso desde antiguo.  Romae «en Roma»;  Corcyrae «en Corfú»;  militiae «en guerra»; También se da en la segunda declinación: Sagunti «en Sagunto»;  Deli«en Delos»;  belli «en guerra». \n
+                \n
+                •  En algunas palabras que pueden utilizar los dos géneros (dea /deus;  filia /filius;  liberta/ libertus;  serva /servus) al seguir la \n
+                \n
+                primera declinación en femenino y la segunda en masculino, se producen coincidencias formales en el dativo y ablativo plural: \n
+                \n
+                así tanto  dea,  deae «diosa» (fem.) como  deus,  dei «dios» (mas.) tendrían en común la misma forma  deis. Para evitar la confusión, se dirá en femenino,  deabus,  filiabus. Ejemplo: cum dis deabusque «con los dioses y las diosas»;  filis  filiabusque «para los hijos y las hijas». \n
+                \n
+                •  Subsiste como arcaísmo en la primera declinación una antigua forma de genitivo singular en -as(en lugar del clásico en -ae), en las locuciones institucionales pater(mater, filius, filia) familias, «el padre de familia». \n
+                \n
+                •  Algunos nombres, particularmente los acabados en  -colay  -gena, y más frecuentemente en poesía algunos nombres compuestos, los nombres de monedas, medidas y pesos, pueden hacer el genitivo plural en -um, en vez de en –arum. \n
+                \n
+                •  Son masculinos: \n
+                \n
+                \\-  Algunos nombres que indican varones u oficios de varón. Ejemplo: agrícola «agricultor» \n
+                \n
+                \\-  Los nombres gentilicios y los nombres de los ríos. Ejemplo: Persa, «el persa», Sequana, «el Sena». \n
+                \n
+                \\-  Los nombres que provienen del griego. Ejemplo: cometa «cometa»; planeta «planeta».\n
+        </string>
+    <string name="lesson3">
+        **El verbo sum y sus compuestos. Presente de indicativo e infinitivo de presente del modo indicativo.**\n
+                \n
+                Este es un verbo irregular. Se enuncia: sum, es, ese: ser o estar. Su tema de infectum es –**es** en las formas atemáticas y **s**- en las temáticas. \n
+                \n
+                \n
+                |presente|\n
+                | :-: |\n
+                |sum|\n
+                |es|\n
+                |est|\n
+                |sumus|\n
+                |estis|\n
+                |sunt|\n
+                \n
+                \n
+                Su infinitivo de presente es: esse\n
+                \n
+                Significación y usos del verbo **esse**:\n
+                \n
+                1. El verbo **esse** (ser) recibe el nombre de verbo sustantivo, en oposición a todos los demás verbos, porque expresa la esencia o substancia de las personas o cosas. Si decimos, por ejemplo, **sumus** significamos somos o existimos. E.j.s: cogito, ergo sum (pienso, luego existo); ego sum qui sum (soy quien soy; soy el que existe).\n
+                \n
+                Usado con un complemento de lugar, significa **estar**; e.j.s: hic sumus (estamos aquí); estis in agro (estáis en el campo).\n
+                \n
+                1. Este verbo tiene la función de unir el sujeto con el atributo o predicado nominal (función copulativa) en las oraciones nominales. E.j.s: rosa est rubra (la rosa es roja); ira furor brevis est (la cólera es una locura corta); Cicero fuit consul (Cicerón fue cónsul). El predicado nominal puede ser un sustantivo o un adjetivo, siempre en caso Nominativo como el sujeto.\n
+                1. Usadas solo con sujeto, las terceras personas de este verbo equivalen al unipersonal de **haber** de la lengua española, que solo se usa en la 3ra/Sg. E.j.s: est lupus (hay un lobo); sunt rosae in horto (hay rosas en el jardín); erant homines (había hombres); erunt libri (habrá libros); fuit coniuratio (hubo una conjuración); fuerunt latrones (hubo ladrones).\n
+                1. Usado con Genitivo este verbo expresa, como en español, posesión o propiedad, ser propio de o incumbir. E.j.s: haec domus patris tui est (esta casa es de tu padre o es propiedad de tu padre); sum totus Pompeii (soy todo de Pompeyo); hominis est ratio (la razón es propia del hombre).\n
+                1. El verbo **esse** con Dativo significa **tener**. La persona que tiene es la que se pone en Dativo; lo que tiene es el Nominativo, sujeto del verbo. Esta construcción se llama **dativo** **posesivo**. E.j.s: est mihi filia (tengo una hija); sunt nobis mitia poma (tenemos frutas maduras); erat consulibus potestas (los cónsules tenían este poder).\n
+                1. El verbo **esse** con dos Dativos significa ser objeto de, causar, servir de. Uno de los Dativos representa la persona o cosa personificada a quien se atribuye lo que expresa el otro Dativo. E.j.s: hoc tibi laudi est (esto es objeto de alabanza para ti); bellum nobis dolori erit (la guerra nos causará dolor); erit illi ista res honori (ese asunto le servirá de honor).\n
+                1. El verbo **esse** sirve de auxiliar para formar los tiempos perfectos de la voz pasiva de los demás verbos. Dichos tiempos se forman con el participio de pretérito del verbo de que se trate y las formas correspondientes del verbo **esse**.\n
+                \n
+                Sus compuestos son: \n
+                \n
+                Compuestos del verbo esse:\n
+                \n
+                1. absum, abes, abesse, afui: estar ausente, distar.\n
+                1. adsum, ades, adesse, adfui: estar presente, asistir.\n
+                1. desum, dees, deesse, defui: faltar.\n
+                1. insum, ines, inesse, infui: estar adentro.\n
+                1. intersum, interés, interesse, interfui: intervenir, interesar.\n
+                1. obsum, obes, obesse, obfui: oponerse, perjudicar, ser obstáculo.\n
+                1. praesum, praees, praeesse, praefui: presidir, estar al frente de, mandar.\n
+                1. prosum, prodes, prodesse, profui: ser útil, ser provechoso.\n
+                1. possum, potes, posse, potui: poder.\n
+                1. subsum, subes, subesse, -: estar debajo.\n
+                1. supersum, superes, superesse, superfui: sobrar, sobrevivir.\n
+                \n
+                **Sobre los compuestos de esse:**\n
+                \n
+                Se construyen generalmente con dativo. E.j.s: rei publicae non deero (no faltaré a la república); id mihi prodest, tibi obest (esto es provechoso para mí, pero es perjudicial para ti); consul comitiis praeerit (el cónsul presidirá los comicios).\n
+                \n
+                El prefijo de possum es pot- ante vocal y pos- ante s. El tema de perfecto es potu-: potui, potueram, potuero, etc. Lleva infinitivo complementario. E.j: pugnare possum (puedo luchar). Tiene un infinitivo de presente y un imperfecto  de subjuntivo contractos (posse / possem). El tema de perfecto es regular sobre el tema  potu-. Él es verbo más usado en latín y suele llevar un  infinitivo, cuyo sujeto es el verbo principal (concertado). Ejemplo: potes currere, «puedes correr»\n
+                \n
+                \n
+                \n
+                \n
+        </string>
+    <string name="lesson4">
+        **Presente de indicativo e infinitivo de presente de los verbos de 1ra y 2da conjugación de verbos regulares. Voz activa.**\n
+                \n
+                **La primera conjugación agrupa los verbos de tema en a  larga. Paradigma amo,  - as,  -are,  - avi,  -atum: amar.**\n
+                \n
+                \n
+                |**Presente**               |\n
+                | :- |\n
+                ||\n
+                |**amo**                      |\n
+                |**amas**|\n
+                |**amat**                      |\n
+                |**amamus**|\n
+                |**amatis**            |\n
+                |**amant**       |\n
+                **        \n
+                \n
+                Su infinitivo de presente de voz activa: amare\n
+                \n
+                Ejemplos de los verbos de esta conjugación son:\n
+                \n
+                habito, as, are: habitar\n
+                \n
+                orno, as, are: adornar\n
+                \n
+                oro, as, are: orar\n
+                \n
+                inmolo, as, are: inmolar\n
+                \n
+                poto, as, are: beber\n
+                \n
+                excogito, as, are: inventar, imaginar\n
+                \n
+                aro, as, are: arar\n
+                \n
+                pugno, as, are: luchar\n
+                \n
+                vitupero, as, are: censurar\n
+                \n
+                laboro, as, are: trabajar, sufrir\n
+                \n
+                celebro, as, are: celebrar, honrar\n
+                \n
+                canto, as, are: cantar\n
+                \n
+                narro, as, are: contar, narrar\n
+                \n
+                erro, as, are: errar, equivocarse\n
+                \n
+                **La segunda conjugación agrupa a los verbos de tema en e larga. Paradigma moneo,- es, ere,  -ui, itum: aconsejar, advertir.** \n
+                \n
+                \n
+                |**Presente** |\n
+                | :- |\n
+                |** |\n
+                |**moneo**                |\n
+                |**mones** |\n
+                |**monet**              |\n
+                |**monemus** |\n
+                |**monetis**    |\n
+                |**monent**          |\n
+                \n
+                Su infinitivo de presente de voz activa: monere\n
+                \n
+                Ejemplos de los verbos de esta conjugación son:\n
+                \n
+                maneo, es, ere: permanecer\n
+                \n
+                verbero, es, ere: golpear\n
+                \n
+                deleo, es, ere: destruir\n
+                \n
+                valeo, es, ere: estar fuerte, estar saludable\n
+                \n
+                debeo, es, ere: deber\n
+                \n
+                sedeo, es, ere: sentarse\n
+                \n
+                augeo, es, ere: aumentar\n
+                \n
+                habeo, es, ere: tener\n
+        </string>
+    <string name="lesson5">
+                **2da DECLINACION**\n
+                \n
+                La segunda declinación agrupa a sustantivos masculinos y algunos femeninos de tema en -o\n
+                \n
+                Terminaciones:\n
+                \n
+                |` `**Caso** |**Singular**|**Plural**|\n
+                | - | - | - |\n
+                |Nom.|` `-us|-i|\n
+                |Voc.|-e|-i|\n
+                |Ac.|-um|-os|\n
+                |Gen.|-i|-orum|\n
+                |Dat.|-o|-is|\n
+                |Ab.|-o|-is|\n
+                \n
+                Sustantivos masculinos con nominativos en ER.\n
+                \n
+                \n
+                |**Caso** |**Singular**|**Plural**|\n
+                | - | - | - |\n
+                |Nom.|` `-er|-i|\n
+                |Voc.|-er|-i|\n
+                |Ac.|-um|-os|\n
+                |Gen.|-i|-orum|\n
+                |Dat.|-o|-is|\n
+                |Ab.|-o|-is|\n
+                Sustantivos neutros:\n
+                \n
+                \n
+                |**Caso** |**Singular**|**Plural**|\n
+                | - | - | - |\n
+                |Nom.|` `-um|-a|\n
+                |Voc.|-um|-a|\n
+                |Ac.|-um|-a|\n
+                |Gen.|-i|-orum|\n
+                |Dat.|-o|-is|\n
+                |Ab.|-o|-is|\n
+                \n
+                Los nombres comunes  filius«hijo» y  genius«el genio» y los nombres propios de tema en  -io-(Nom. en  -ius) hacen su vocativo en  -i:  fili(de  filius);  geni(de  genius);  Iuli(de  Iulius, «Julio»);  Vergeli(de  Vergelius, «Virgilio»);  Pompei(de \n
+                \n
+                Pompeius)... \n
+                \n
+                •  El genitivo de los nombres propios en -io- (Nom. en -ius) pueden ofrecer un Gen. Sg. de forma contracta en -i(ii); esta forma contracta es la normal en época clásica:  Pompei,  Clodi,  Corneli,  ingenie  ingenii, (de  ingenium)  fluviy  fluvii(de  fluvius). El genitivo en -iisólo se hace frecuente a partir de la época de Augusto. \n
+                \n
+                •  La desinencia primitiva de gen. pl. era  -um(-om). Pero esta desinencia fue desplazada por  -orum, por influencia analógica de los temas en -a, siendo esta última desinencia normal en la época clásica. Sin embargo, conservan la forma arcaica: \n
+                \n
+                •  Algunos nombres que tienen  rpara evitar la acumulación de esta letra:  nostrum  liberum(por  nostrorum  liberorum, «de nuestros hijos»); barbarum(por barbarorum, «extranjero»). \n
+                \n
+                •  El nombre viry sus compuestos: triumvirum, decemvirum, quidecemvirum... \n
+                \n
+                •  Los nombres muy largos; algunos que indican monedasy medidas; algunos gentilicios y numerales y ciertas expresiones técnicas:  consanguineum,  magnanimum;  nummum(de  nummus);  sestertium,  denarium,  talentum, \n
+                \n
+                modium(de sestertius, -i); Celtiberum, Graium; ducentum equitum,«de doscientos jinetes»; praefactus fabrum,«jefe de obreros»; praefectus socium«jefe de los aliados»; pro deum fidem. Todas estas formas tienen otra forma normal en -orum. \n
+                \n
+                •  Los poetas por exigencias métricas o tendencia a usar arcaísmos, emplean a veces esta forma en -umen cualquier palabra. \n
+                \n
+                •  Algunos sustantivos masculinos acaban en  –er, en vez de hacerlo en  –us. En algunos casos mantienen la  e en toda la declinación, como puer, pueri,«niño»; socer,-eri,«suegro», pero lo más común es que la mantengan sólo en el nominativo y vocativo singular: ager,-gri,«campo». \n
+                \n
+                Hay un único sustantivo que acaba en –ir: vir, viri, «hombre». \n
+                \n
+                •  La mayoría de los sustantivos en –usson masculinos, excepto algunos femeninos que designan: \n
+                \n
+                nombres de árboles: malus,-i, «manzano»; pinus,-i,«pino»; pirus,-i,«peral» \n
+                \n
+                arbustos y plantas: nardus,-i,«nardo»; papyrus,-i,«papiro» \n
+                \n
+                nombres de ciudades terminados en –us: Corinthus,-i,«Corintio» \n
+                \n
+                algunos nombres grecolatinos:  paragraphus,-i,«parágrafo»; \n
+                \n
+                ` `periodus,-i,«periodo»;  methodus,-i,«método»,  \n
+                \n
+                dialectus,-i, «dialecto». \n
+                \n
+                •  Son neutros: pelagus,-i, «mar»; virus,-i,«virus, veneno»; vulgus,-i,«vulgo, plebe» \n
+                \n
+                •  Cambian de significado al cambiar de número. Ejemplo: \n
+                \n
+                auxilium,-ii,«auxilio» / auxilia,-orum,«tropas auxiliares» \n
+                \n
+                castrum,-i, «aldea» / castra,-orum, «campamento» \n
+                \n
+                comitium,-ii, «el comicio» / comitia,-orum,«la asamblea del pueblo» \n
+                \n
+                liber,liberi,«libre» / liberi,-orum,«los hijos» \n
+                \n
+                posterus,-i, «posterior» / posteri,-orum,«descendientes» \n
+                \n
+                rostrum,-i,«pico de nave» / rostra,-orum,«tribuna de oradores» \n
+                \n
+                •  Cambian de género al pasar a plural. Ejemplo: \n
+                \n
+                caelum,-i(n) «cielo» / caeli,-orum(m) «cielos» \n
+                \n
+                locus,-i (m) «lugar» / loca,-orum (n) «parajes» \n
+                \n
+                •  Carecen de singular algunos sustantivos. \n
+                \n
+                Ejemplos: aestiva,-orum «campamento de verano» \n
+                \n
+                hiberna,-orum «campamento de invierno» \n
+                \n
+                arma,-orum «armas» \n
+                \n
+                fasti,-orum «calendario, fasto» \n
+                \n
+                genimi,-orum «gemelos» \n
+                \n
+                inferi,-orum «infiernos» \n
+                \n
+                praecordia,-orum«entrañas» \n
+                \n
+                superi,-orum «dioses» \n
+                \n
+                •  Conservan restos de locativo algunos nombres propios de ciudad (Chorinti, «en Corinto»); y algunos nombres comunes (humi «en el suelo»); (domi«en casa»)\n
+        </string>
+    <string name="lesson6">
+                **Los tiempos de infectum de sum y sus compuestos.** \n
+        \n
+        Los tiempos del tema de infectum son el pretérito imperfecto del modo indicativo, el futuro imperfecto de indicativo, el presente  y el pretérito de subjuntivo**.**\n
+        \n
+        **Pretérito imperfecto**\n
+        **\n
+        \n
+        \n
+        |eram :era|\n
+        | :- |\n
+        |eras|\n
+        |erat|\n
+        |eramus|\n
+        |eratis|\n
+        |erant|\n
+        \n
+        **Futuro imperfecto**\n
+        \n
+        \n
+        |ero: seré, estaré|\n
+        | :- |\n
+        |eris|\n
+        |erit|\n
+        |erimus|\n
+        |eritis|\n
+        |erunt|\n
+        **  \n
+        \n
+        **Presente de subjuntivo**\n
+        \n
+        \n
+        |sim: yo sea|\n
+        | :- |\n
+        |sis|\n
+        |sit|\n
+        |simus|\n
+        |sitis|\n
+        |sint|\n
+        \n
+        **Pretérito imperfecto de subjuntivo**\n
+        \n
+        \n
+        |essem: yo fuera, sería, fuese.|\n
+        | :- |\n
+        |esses|\n
+        |esset|\n
+        |essemus|\n
+        |essetis|\n
+        |essent|\n
+        \n
+        </string>
+    <string name="lesson7">
+**La 3ra declinación**\n
+                \n
+                En la tercera declinación hay sustantivos de los tres géneros (masculino, femenino y neutro). En contraste con las terminaciones de la primera declinación y la segunda declinación, la terminación de la tercera declinación no tiene una vocal temática. Hay que tener especial cuidado en sacar la raíz del genitivo. (Para declinar una palabra de la 3ª declinación hay que conocerla forma de su genitivo singular, que siempre aparece en el diccionario, se separa de esta forma la desinencia  –is, y a lo restante (raíz o tema) se le suman las desinencias, igual que con el modelo ager, agri de la 2ª declinación). \n
+                \n
+                Presenta sustantivos de varios temas: \n
+                \n
+                Tema en vocal  -i. Son los sustantivos  parisílabos (con el mismo número de sílabas en nominativo y genitivo, como  civis, civis). Toman -iumen el genitivo plural e -iaen el neutro plural de los tres primeros casos. Los neutros (mare, maris) se distinguen por el nominativo singular en –e. \n
+                \n
+                Tema en consonante.\n
+                \n
+                Como regla general son los sustantivos imparisílabos(con distinto número de sílabas en nominativo y genitivo, como consul, consulis) Son nombres sin desinencia especial en el nominativo singular, es decir, suele haber contracción entre la  –sde la desinencia y la consonante de la raíz, por eso se suele hablar de enunciado. (Las reglas de contracción se exponen en la siguiente hoja). Toman la terminación -umen el genitivo plural y la terminación -aen el neutro plural de nominativo, vocativo y acusativo. Los neutros no se distinguen  de los masculinos o femeninos y por tanto deben indicarse con (n),  flumen, fluminis(n), tal como aparece en el diccionario. \n
+                \n
+                Tema en grupo consonántico. Son los sustantivos imparisílabos monosilábicos que tienen dos consonantes juntas antes de la terminación del genitivo (–is), como urbs, urb-is. A pesar de ser imparisílabos, se declinan como los parisílabos. Toman -iumen el genitivo plural e -iaen el neutro plural de los tres primeros casos. (Otros ejemplos son: dens, dentis; arx, arcis; ars, artis). En el caso de los adjetivos, no es necesario que sean monosilábicos.\n
+                \n
+                **Particularidades del nominativo singular de los imparisílabos.**\n
+                \n
+                |||Desinencia de Nom.|Proceso fonético|Ejemplos.|\n
+                | :- | :- | :- | :- | :- |\n
+                |OCLUSIVA|LABIAL          b, p|Toman - S|<p>La consonante labial se </p><p>mantiene ante la -s del </p><p>nominativo </p><p></p>|<p>princeps, principis </p><p>plebs, plebis</p>|\n
+                |OCLUSIVA|DENTAL        d, t|Toman - S|<p>La consonante dental se </p><p>pierde ante la -s del nominativo. </p><p></p>|<p>pes, pedis. </p><p></p>|\n
+                |OCLUSIVA|GUTURAL     c,g|Toman - S|<p>La consonante gutural se </p><p>funde con la -s del </p><p>nominativo en la consonante </p><p>doble x.</p>|<p>dux, ducis </p><p>lex, legis</p>|\n
+                |NASAL|<p>m, n </p><p></p>|<p>No toman -s, salvo hiems, hiemis, único </p><p>tema en -m. </p><p></p><p></p>|<p>La -n del tema se mantiene </p><p>precedida de -e: </p><p>La -n del tema se pierde </p><p>precedida de –o. </p><p></p>|<p>flumen, fluminis </p><p>leo, leonis </p><p>homo, hominis</p><p></p>|\n
+                |<p>LIQUIDA </p><p></p>|L,r |No toman -s |<p>Se mantiene la liquida </p><p></p>|<p>consul, consulis</p><p>mulier, mulieris</p>|\n
+                |<p>SILBANTE </p><p></p>|s|<p>No toman -s </p><p></p>|<p>La -s del tema se transforma </p><p>en -r cuando va entre </p><p>vocales (rotacismo en el </p><p>genitivo) </p><p></p>|<p>honos, honoris </p><p>cinis, cineris</p>|\n
+                |NEUTRO|TEMA   PURO|<p>-us,-eris </p><p></p>|<p>os>us; esis>eris </p><p>(rotacismo en el genitivo)</p>|genus, generis|\n
+                |NEUTRO|TEMA   PURO|<p>-us,-oris </p><p></p>|<p>os>us; osis>oris </p><p>(rotacismo en el genitivo) </p><p></p>|tempus, temporis|\n
+                |NEUTRO|TEMA   PURO|<p>-men,-minis </p><p></p>|<p>La -n del tema se mantiene </p><p>precedida de -e </p><p></p>|flumen, fluminis|\n
+                |NEUTRO|TEMA   PURO|<p>-s </p><p></p>|<p>Se mantiene la silbante </p><p>(rotacismo en el genitivo)</p><p></p>|ius, iuris|\n
+                |NEUTRO|` `TEMA  PURO|-t |Se mantiene la dental  |caput, capitis|\n
+                \n
+                La tercera declinación se caracteriza porque el genitivo toma la desinencia **IS**. A su vez, los sustantivos de esta declinación pueden ser masculinos, femeninos y neutros. Hay tres tipos de sustantivos:\n
+                \n
+                \\1. **Tema en consonante**:\n
+                \n
+                -El tema en el genitivo acaba en consonante: **homo - hominis**. \n
+                \n
+                -El número de sílabas en nominativo es distinto que en genitivo: **consul - consulis, civitas - civitatis, tempus - temporis.** \n
+                \n
+                Los sustantivos neutros tienen variaciones con respecto a los masculinos y femeninos. El nominativo, vocativo y acusativo tienen la misma forma en singular, mientras que en plural adquieren la terminación **A**.\n
+                \n
+                En la tercera declinación aparecen formas acabadas en **I**, como el genitivo de la segunda declinación, sin embargo, no pueden confundirse, porque en la tercera declinación corresponden al dativo, es decir, una función de complemento directo o circunstancial, sin embargo en la segunda son genitivos, complementos del nombre.\n
+                \n
+                \\2. **Tema en vocal o tema en *-i***, cumplen, a la vez, dos características:\n
+                \n
+                -El tema en el genitivo acaba en vocal: **mare - maris**. \n
+                \n
+                -El número de sílabas es igual en nominativo y en genitivo: **navis - navis**. \n
+                \n
+                En los dos ejemplos anteriores el genitivo, aunque lo parezca, no acaba en consonante, puesto que la **i** del genitivo es la contracción de **ii**, es decir, **mari-** **is**, por tanto son sustantivos con tema en vocal, aunque fonéticamente hayan evolucionado.\n
+                \n
+                Se declinan igual que los de tema en consonante pero con dos excepciones:\n
+                \n
+                -Genitivo del plural toma la desinencia **IUM.** \n
+                \n
+                -Nominativo, vocativo y acusativo del plural toman la desinencia **IA**. \n
+                \n
+                \\3. Tema mixto: La característica de estos sustantivos es que mezclan las desinencias usadas en los otros dos temas:\n
+                \n
+                El singular lo hacen como los temas en consonante y el plural lo hacen como los temas en **i** / **Ars - arcis**: el número de sílabas en nominativo y genitivo es distinto, pero el genitivo del plural lo hace en **IUM**, **arcium**, igual que los sustantivos con tema en **i**. Lo mismo ocurre con **urbs** - **urbis**, cuyo genitivo del plural es **urbium**.\n
+                \n
+                Los sustantivos de la tercera suelen tomar  -een el ablativo singular, excepto los sustantivos neutros (de tema en -i) terminados en  -e(mare, maris), o los temas en consonante terminados en  -ar (exemplar, exemplaris) y  -al(animal, animalis) que toman -ien el ablativo singular. Los adjetivos que se declinan siguiendo el modelo de la tercera declinación suelen tomar el ablativo singular -i(excepto los adjetivos de tema en consonante de una sola terminación). \n
+                \n
+                •  Muchos sustantivos de la tercera declinación sufren el fenómeno de la apofonía: una vocal que está en la última sílaba, al pasar a la penúltima sílaba cambia de timbre, generalmente a  –iy a  –esi va seguida de  –r. Por ejemplo: homo, hominis; flumen, fluminis; opus, operis… \n
+                \n
+                •  En la tercera declinación quedan algunos restos del locativo(con la terminación -i): \n
+                \n
+                \\-  rus, ruris «campo», tiene un locativo ruri «en el campo»; \n
+                \n
+                \\- algunos nombres de ciudades que se declinan en singular: Carthago, -inis(locat.: Carthagini).\n
+        </string>
+    <string name="lesson8">
+**Los tiempos de infectum de la 1ra y 2da conjugaciones** **de verbos regulares.**\n
+                \n
+                Voz activa del modo indicativo: 1ra conjugación  \n
+                \n
+                \n
+                |**Pretérito imperfecto\tfuturo imperfecto**           |\n
+                | :- |\n
+                |amabam: yo amaba           amabo: amaré       |\n
+                |amabas\t amabis|\n
+                |amabat                               amabit|\n
+                |amabamus                         amabimus|\n
+                |amabatis                            amabitis|\n
+                |amabant                             amabunt|\n
+                ||\n
+                \n
+                \n
+                \n
+                Voz pasiva del modo indicativo\n
+                \n
+                |**Pretérito imperfecto\tfuturo imperfecto**           |\n
+                | :- |\n
+                |amabar: yo era amado       amabor: seré amado|\n
+                |amabaris –re                      amaberis-re|\n
+                |amabatur\t    amabitur|\n
+                |amabamur                          amabimur|\n
+                |amabamini                         amabimini|\n
+                |amabantur\tamabuntur|\n
+                \n
+                Los tiempos de infectum del modo subjuntivo se presentarán en la lección de subjuntivo. \n
+                \n
+                Voz activa del modo indicativo: 2da conjugación  \n
+                \n
+                \n
+                |Pretérito imperfecto          futuro imperfecto|\n
+                | :- |\n
+                |Monebam: aconsejaba      monebo: aconsejaré|\n
+                |monebas\tmonebis|\n
+                |monebat\tmonebit|\n
+                |monebamus\tmonebimus|\n
+                |monebatis\tmonebitis|\n
+                |monebant\tmonebunt|\n
+                \n
+                Voz pasiva del modo indicativo\n
+                \n
+                |Pretérito imperfecto                     futuro imperfecto|\n
+                | :- |\n
+                |Monebar: yo era aconsejado\tmonebor: seré aconsejado|\n
+                |monebaris-re\t          moneberis-re|\n
+                |monebatur\t          monebitur|\n
+                |monebamur\t          monebimur|\n
+                |monebamini\t          monebimini|\n
+                |monebantur\t          monebuntur|\n
+                \n
+                \n
+                \n
+                Los tiempos de infectum del modo subjuntivo se presentarán en la lección de subjuntivo. \n
+        </string>
+    <string name="lesson9">
+**Los tiempos de perfectum de sum y sus compuestos.**\n
+                \n
+                **Modo indicativo**\n
+                \n
+                |pretérito perfecto|<p>futuro perfecto</p><p></p>|<p>pretérito pluscuamperfecto</p><p></p>|\n
+                | :- | :- | :- |\n
+                |fui: fui, he sido|fuero: habré sido|fueram: yo había sido|\n
+                |fuisti|fueris|fueras|\n
+                |fuit|fuerit|fuerat|\n
+                |fuimus|fuerimus|fueramus|\n
+                |fuistis|fueritis|fueratis|\n
+                |fuerunt-ere|fuerint|fuerant|\n
+                \n
+                Modo subjuntivo\n
+                \n
+                |pretérito perfecto|pretérito pluscuamperfecto|\n
+                | :- | :- |\n
+                |fuerim: haya sido|Fuissem: hubiera sido|\n
+                |fueris|fuisses|\n
+                |fuerit|fuisset|\n
+                |fuerimus|fuissemus|\n
+                |fueritis|fuissetis|\n
+                |fuerint|fuissent|\n
+                \n
+        </string>
+    <string name="lesson10">
+                \n
+                \n
+                \n
+                **Los adjetivos de una, dos y tres terminaciones. La concordancia. Los grados del adjetivo.** \n
+                \n
+                El adjetivo se enuncia con el nominativo singular en los tres géneros. Cuando el nominativo masculino y femenino es idéntico la primera forma del enunciado corresponde al nominativo masculino y femenino y la segunda al nominativo neutro. Cuando los nominativos masculino, femenino y neutro son idénticos, en la segunda forma del enunciado aparece el genitivo. \n
+                \n
+                bonus, -a, -um. \n
+                \n
+                vetus -eris \n
+                \n
+                prudens, -ntis \n
+                \n
+                fortis, -e. \n
+                \n
+                El adjetivo ha de concertar con el sustantivo en género, número y caso. Como en castellano, el adjetivo en latín puede sustantivarse, es decir, ocupar en la oración el lugar  de un sustantivo. La sustantivación se produce, sobre todo, con las formas masculinas y neutras: \n
+                \n
+                Sapiens numquam irascitur, «el sabio nunca se enfurece» \n
+                \n
+                Sol efficit ut omnia floreant, «el sol hace que todo florezca». \n
+                \n
+                **Las funciones sintácticas** que puede desempeñar un adjetivo son las siguientes: \n
+                \n
+                **Modificador o Adyacente**: el adjetivo que modifica directamente a un sustantivo:  Pueri poetas Graecosrecitabant,  «los niños recitaban a los poetas griegos». \n
+                \n
+                **Atributo**: se trata del adjetivo que modifica a un sustantivo a través del verbo copulativo  sum: Via longaerit, «el camino será largo» \n
+                \n
+                **Predicativo**: es el adjetivo que modifica a un sustantivo a través de un verbo no copulativo, calificando además el proceso verbal en relación al sustantivo con el queconcierta:  Homines caecosreddit cupiditas, «la ambición vuelve ciegos a los hombres» \n
+                \n
+                Los adjetivos en latín se declinan por la primera y segunda declinación (adjetivos de la primera clase) o por la tercera declinación (adjetivos de la segunda clase). \n
+                \n
+                **Adjetivos de la primera clase** \t\t\n
+                \n
+                También llamados adjetivos de tres terminaciones (una para cada género en el nominativo singular), se declinan siguiendo los modelos de la primera y segunda declinaciones: el masculino y el neutro toman las terminaciones de la segunda declinación, y el femenino de la primera. Algunos pronombres también se declinan así: \n
+                \n
+                -us (masculino), -a (femenino), -um (neutro). \n
+                \n
+                Ejemplo: bonus, bona, bonum «bueno» \n
+                \n
+                Agricolae boni agrum colunt, «los buenos agricultores cultivan el campo» \n
+                \n
+                -er (masculino), -a (femenino), -um (neutro). \n
+                \n
+                Ejemplo: pulcher. pulchra, pulchrum «limpio» \n
+                \n
+                Domus pulchra est, «la casa es hermosa» \n
+                \n
+                **Adjetivos de la segunda clase** \n
+                \n
+                Se declinan siguiendo el modelo de la tercera declinación. Hay adjetivos de una, dos y tres terminaciones, atendiendo al número de terminaciones que presentan en el nominativo singular. \n
+                \n
+                • vetus,-eris. Una sola terminación vetus para los tres géneros en el nominativo singular y por eso en el enunciado se indica el nominativo y el genitivo singular. De tema en consonante. Son pocos, y su ablativo singular es siempre en –e. \n
+                \n
+                • prudens, prudentis. Sólo tiene una terminación, de grupo consonántico, coincide con la forma del participio de presente. \n
+                \n
+                • fortis, -e. Dos terminaciones en el nominativo singular: la primera (fortis), para masculino y femenino; la segunda (forte), para el neutro (la –ede la segunda forma del enunciado no puede corresponder a ningún genitivo, por tanto se deduce que es la forma del nominativo neutro). Son siempre de tema en -i. \n
+                \n
+                • acer, acris, acre. Una terminación para cada género en el nominativo singular. Son muy escasos y siempre de tema en -i. \n
+                \n
+                \n
+                \n
+                \n
+                \n
+                \n
+                \n
+                **Adjetivos de la primera clase** \n
+                \n
+                ADJETIVOS DE LA 1ª Y 2ª DECLINACIÓN \n
+                \n
+                Adjetivos en  -us, -a, -um  bonus, -a, -um  bueno\n
+                \n
+                \n
+                |singular|singular|singular|plural|plural|plural|\n
+                | :- | :- | :- | :- | :- | :- |\n
+                |masculino|femenino|neutro|masculino|femenino|neutro|\n
+                |N  bonus|bona|` `bonum|boni|bonae|bona|\n
+                |V  bone|bona|` `bonum|boni|bonae|bona|\n
+                |Ac  bonum|bonam|` `bonum|bonos|bonas|bona|\n
+                |G  boni|bonae|` `boni|bonorum|bonarum|bonorum|\n
+                |Dt  bono|bonae|` `bono|bonis|bonis|bonis|\n
+                |Abl  bono|bona|` `bono|bonis|bonis|bonis|\n
+                ||\n
+                ||\n
+                |`                    `Singular                                                             Plural|\n
+                ||Masc.|Fem.|Neutro|Masc.|Fem.|Neutro|\n
+                |N|niger|nigr-a|nigr-um|nigr-i|nigr-ae|nigr-a |\n
+                |V|niger|nigr-a|nigr-um|nigr-i|nigr-ae|nigr-a |\n
+                |Ac|nigr-um|nigr-am|nigr-um|nigr-os|nigr-as|nigr-a |\n
+                |G|nigr-i|nigr-ae|nigr-i|nigr-orum|nigr-arum|nigr-orum|\n
+                |Dt|nigr-o|nigr-ae|nigr-o|nigr-is|nigr-is|nigr-is |\n
+                |Ab|nigr-o|nigr-a|nigr-o|nigr-is|nigr-is|nigr-is |\n
+                \n
+                ADJETIVOS DE LA 1ª Y 2ª DECLINACIÓN (ADJETIVOS NUMERALES) \n
+                \n
+                Adjetivos Numerales  unus, una, unum  uno  duo, duae, duo dos\n
+                \n
+                \n
+                \n
+                |`                    `Singular|`   `Plural|\n
+                | :- | :- |\n
+                ||Masc.|Fem.|Neutro|Masc.|Fem.|Neutro|\n
+                |N|un-us|un-a|`  `un-um|duo|du-ae|duo |\n
+                |Ac|un-um|un-am|`  `un-um|du-os|du-as|duo |\n
+                |G|un-i|un-ae|`  `un-i|du-orum|du-arum|du-orum |\n
+                |D|un-o|un-ae|`  `un-o|du-obus|du-abus|du-abus |\n
+                |Ab|un-o|un-a|`  `un-o|du-obus|du-abus|du-abus |\n
+                \n
+                \n
+                |Adjetivos Numerales  tres, tria  tres milia, milium mil|\n
+                | :- |\n
+                |N|tres|tria|milia |\n
+                |Ac|tres|tria|milia |\n
+                |G|trium|trium|milium |\n
+                |Dt|tribus|tribus|milibus |\n
+                |Ab|tribus|tribus|milibus |\n
+                \n
+                \n
+                **Adjetivos de la segunda clase** \n
+                \n
+                ADJETIVOS DE LA 3ª DECLINACIÓN \n
+                \n
+                IMPARISÍLABOS (2 terminaciones)  vetus, -eris  viejo\n
+                \n
+                |`                         `Singular|Plural|\n
+                | :- | :- |\n
+                ||Masc. y Fem.|Neutro|Masc. y Fem.|Neutro |\n
+                |N|vetus|vetus|veter-es|veter-a |\n
+                |V|vetus|vetus|veter-es|veter-a |\n
+                |Ac|veter-em|vetus|veter-es|veter-a |\n
+                |G|veter-is|veter-is|veter-um|veter-um |\n
+                |Dt|veter-i|veter-i|veter-ibus|veter-ibus |\n
+                |Ab|veter-e|veter-e|veter-ibus|veter-ibus |\n
+                \n
+                IMPARISÍLABOS (Grupo consonántico, 2 terminaciones)  prudens, -ntis  sabio\n
+                \n
+                \n
+                \n
+                |`                           `Singular|`                  `Plural|\n
+                | :- | :- |\n
+                ||Masc. y Fem.|Neutro|Masc. y Fem.|Neutro |\n
+                |N|prudens|prudens|prudent-es|prudent-ia |\n
+                |V|prudens|prudens|prudent-es|prudent-ia |\n
+                |Ac|prudent-em|prudens|prudent-es|prudent-ia |\n
+                |G|prudent-is|prudent-is|prudent-ium|prudent-ium |\n
+                |Dt|prudent-i|prudent-i|prudent-ibus|prudent-ibus |\n
+                |Ab|prudent-i/-e|prudent-i|prudent-ibus|prudent-ibus |\n
+                \n
+                \n
+                PARISÍLABOS (2 terminaciones)  fortis, -e  valiente\n
+                \n
+                |`                               `Singular|Plural|\n
+                | :- | :- |\n
+                ||Masc. y Fem.|Neutro|Masc. y Fem.|Neutro |\n
+                |N|fortis|forte|fort-es|fort-ia |\n
+                |V|fortis|forte|fort-es|fort-ia |\n
+                |Ac|fort-em|forte|fort-es|fort-ia |\n
+                |G|fort-is|fort-is|fort-ium|fort-ium |\n
+                |Dt|fort-i|fort-i|fort-ibus|fort-ibus |\n
+                |Ab|fort-i|fort-e|fort-ibus|fort-ibus |\n
+                \n
+                PARISÍLABOS (3 terminaciones)  acer, acris, acre  agudo\n
+                \n
+                |`                         `Singular|Plural|\n
+                | :- | :- |\n
+                ||Masc.|Fem.|Neutro|Masc.|Fem.|Neutro|\n
+                |N|acer|acris|acr-e|acr-es|acr-es|acr-ia |\n
+                |V|acer|acris|acr-e|acr-es|acr-es|acr-ia |\n
+                |Ac|acr-em|acr-em|acr-e|acr-es|acr-es|acr-ia |\n
+                |G|acr-is|acr-is|acr-is|acr-ium|acr-ium|acr-ium |\n
+                |Dt|acr-i|acr-i|acr-i|acr-ibus|acr-ibus|acr-ibus |\n
+                |Ab|acr-e|acr-e|acr-i|acr-ibus|acr-ibus|acr-ibus |\n
+                \n
+                **Grados del adjetivo.** \n
+                \n
+                El adjetivo puede presentar tres grados: el positivo que indica una cualidad, el comparativo que indica una cualidad comparándola, y el superlativo; indicando una cualidad en grado máximo. \n
+                \n
+                **El grado comparativo** puede tener tres formas diferentes: \n
+                \n
+                Comparativo de superioridad: se construye de dos formas: \n
+                \n
+                Adjetivos de dos sílabas o menos: tema  -ior     (masc. y fem.), tema  -ius (neutro). Ejemplo: Bellum odiosius quam pax, «la guerra es más odiosa que la paz» \n
+                \n
+                Adjetivos de más de dos sílabas: **magis  adjetivo en grado positivo  quam.** Ejemplo: Marius est magis amabilis quam Antonius,«Mario es más amable que Antonio» \n
+                \n
+                Comparativo de inferioridad: **minus  adjetivo en grado positivo  quam**. Ejemplo: Marius est minus bonus quam Antonius, «Mario es menos bueno que Antonio» \n
+                \n
+                Comparativo de igualdad: **tam  adjetivo en grado positivo  quam**. Ejemplo: \n
+                \n
+                Ego sum tam misericors quam vos, «soy tan compasivo como vosotros» \n
+                \n
+                **El superlativo** \n
+                \n
+                El superlativo se forma añadiendo una terminación al tema de la palabra. Esta terminación depende de la forma del masculino singular.  En general se añade -issimus, -issima, -issimum. Ejemplo: altissimus, altissima, altissimum «el más alto» \n
+                \n
+                ` `Si el masculino singular acaba en  -er  se añade  -errimus, -errima, -errimum. Ejemplo:  pulcher    pulcherrimus, pulcherrima, pulcherrimum «el más hermoso» \n
+                \n
+                Si el masculino singular acaba en -illis se añade -illimus, -illima, -illimum. \n
+                \n
+                •  Se añade el sufijo –issimus,-a,-um a la raíz del adjetivo ya sea de la 3ª declinación (modelo fortis,-e: fortissimus); o de la 1ª y 2ª (modelo altus,-a,-um: altissimus). Expresa una cualidad poseída en el más alto grado. Se traduce por altísimo, muy alto o el más alto de todos. \n
+                \n
+                \n
+                **GRADOS DEL ADJETIVO**\n
+                \n
+                Positivo alto (simple posesión de la cualidad) \n
+                \n
+                Comparativo: **Igualdad: tan alto como** / Caius est tam altus quam Marcellus «Cayo es tan fuerte como Marcelo» Lucius est tam fortis quam laetus«Lucio es tan fuerte como feliz»\n
+                \n
+                **Inferioridad: menos alto que /** Marcelus est minus fortis quam Lucius «Marcelo es menos fuerte que Lucio» Lucius est minus sapiens quam altus «Lucio es menos fuerte que alto»\n
+                \n
+                **Superioridad: más alto que** / Marcelus est altior Petro «Marcelo es más alto que Pedro» crudelis Paulus est crudelior Caio «Pablo es más cruel que Cayo»  velox Equus est velocior cane «El caballo es más veloz que el perro» \n
+                \n
+                **ADJETIVOS COMPARATIVOS Y SUPERLATIVOS REGULARES** \n
+                \n
+                Reglas para la formación del Comparativo de Superioridad y Superlativo \n
+                \n
+                \\1. Para el comparativo de superioridad se añade el  sufijo  -ior(mas. y fem.),  -ius(neutro) a la raíz del adjetivo ya sea de la 1ª y  2ª \n
+                \n
+                declinación o de la 3ª. Para el superlativo se añade el sufijo –issimus,-a,-um.\n
+                \n
+                \\2. Los adjetivos que terminan en -ilis, en lugar del sufijo -issimus, usan el sufijos –illimus para el superlativo. \n
+                \n
+                \\3. Los adjetivos que terminan en -dicus,-ficus,-volus, en lugar de los sufijos -ior, -issimus, usan los sufijos –entior para el comparativo de superioridad y –entissimus para el superlativo. \n
+                \n
+                \\4. Los adjetivos que terminan en -er, en lugar del sufijo -issimus, usan el sufijos –errimus para el superlativo.\n
+                \n
+                \n
+                |`      `ADJETIVOS COMPARATIVOS Y SUPERLATIVOS REGULARES |\n
+                | :- |\n
+                |Reglas para la formación del Comparativo de Superioridad y Superlativo |\n
+                |Para el comparativo de superioridad se añade el  sufijo  -ior(mas. y fem.),  -ius(neutro) a la raíz del adjetivo ya sea de la 1ª y  2ª declinación o de la 3ª. Para el superlativo se añade el sufijo –issimus,-a,-um.|\n
+                |Positivo|Traducción|Comp de Superioridad|<p>`  `Superlativo </p><p></p>|Regulares|\n
+                |altus,-a,-um (reg)|alto|altior, -ius «más alto»|<p>altissimus,-a,-um «altisimo»</p><p></p>||\n
+                |fortis,-e (reg)|valiente|fortior,-ius «más valiente»|<p>fortissimus,-a,-um «el más valiente»</p><p></p>||\n
+                \n
+                \n
+                |2. Los adjetivos que terminan en -ilis, en lugar del sufijo -issimus, usan el sufijos –illimus para el superlativo.|\n
+                | :- |\n
+                |Positivo|Traducción|Comp de Superioridad|<p>Superlativo </p><p></p>|\n
+                |facilis,-e|fácil|facilior,-ius «más fácil»|<p>facillissimus,-a,-um «el más fácil»</p><p></p>|\n
+                |humilis,-e|humilde|humilior,-ius «más humilde»|<p>humillimus,-a,-um «el más humilde»</p><p></p>|\n
+                |difficilis,-e|difícil|difficilior,-ius «más difícil»|<p>difficillimus,-a,-um «el más difícil»</p><p></p>|\n
+                |similis,-e|igual|similior,-ius «más igual»|<p>simillimus,-a,-um «el más igual»</p><p></p>|\n
+                |disimilis,-e|distinto|dissimilior,-ius «más distinto»|<p>dissimillimus,-a,-um «el más distinto»</p><p></p>|\n
+                |<p>3. Los adjetivos que terminan en -dicus,-ficus,-volus, en lugar de los sufijos -ior, -issimus, usan los sufijos –entior para el comparativo de superioridad y –entissimus para el superlativo. </p><p></p>|\n
+                |Positivo|Traducción|`  `Comp de Superioridad|<p>Superlativo </p><p></p>|\n
+                |magnificus,-a,-um|noble|magnificentior,-ius «más noble»  |<p>magnificentissimus,-a,-um «el más noble»</p><p></p>|\n
+                |<p>4. Los adjetivos que terminan en -er, en lugar del sufijo -issimus, usan el sufijos –errimus para el superlativo.</p><p></p>|\n
+                |Positivo|Traducción|Comp de Superioridad|<p>Superlativo </p><p></p>|\n
+                |pulcher,-ra,-rum|bello|pulcrior,-ius «más bello»  |<p>pulcherrimus,-a,-um «el más bello»</p><p></p>|\n
+                |<p>5. Los adjetivos que terminan en -eus,-ius,-uus, en lugar de los sufijos  -ior, -issimus, usan giros perifrásticos con  magis…quam para el comparativo de superioridad y maxime para el superlativo.    [Excepciones]</p><p></p>|\n
+                |Positivo|Traducción|`  `Comp de Superioridad|<p>Superlativo </p><p></p>|\n
+                |idoneus,-a,-um|idóneo|magis idoneus «más idóneo»|<p>maxime idoneus «el más idóneo»</p><p></p>|\n
+                |pius,-a,-um|piadoso|`  `magis pius «más valiente»|<p>maxime pius «el más valiente»</p><p></p>|\n
+                |arduus,-a,-um|difícil|magis arduus «más difícil»|<p>maxime arduus «el más difícil»</p><p></p>|\n
+                \n
+                DECLINACIÓN DEL COMPARATIVO Y SUPERLATIVO \n
+                \n
+                ADJETIVOS GRADO COMPARATIVO DE SUPERIORIDAD \n
+                \n
+                Se añade el sufijo -ior(mas. y fem.), -ius(neutro) a la raíz del adjetivo ya sea de la 3ª declinación (modelo fortis,-e: fortior); o de la 1ª y 2ª (modelo altus,-a,-um: altior) \n
+                \n
+                fort-ior, -ius  (más valiente) Siempre por la 3ª  fortis, -e (valiente)(Grado positivo)\n
+                \n
+                |`                  `Singular                                        Plural|\n
+                | :- |\n
+                |`      `Masc. y Fem.|Neutro|Masc. y Fem.|Neutro |\n
+                |N|fort-ior|fort-ius|fort-iores|fort-iora |\n
+                |V|fort-ior|fort-ius|fort-iores|fort-iora |\n
+                |Ac|fort-iorem|fort-ius|fort-iores|fort-iora |\n
+                |G|fort-ioris|fort-ioris|fort-iorum|fort-iorum |\n
+                |Dt|fort-iori|fort-iori|fort-ioribus|fort-ioribus |\n
+                |Ab|fort-iori|fort-iore|fort-ioribus|fort-ioribus|\n
+                \n
+                \n
+                \n
+                \n
+                alt-ior, -ius  (más alto) Siempre por la 3ª   altus, -a,-um   (alto)(Grado positivo)\n
+                \n
+                |`               `Singular                                                  Plural|\n
+                | :- |\n
+                |`      `Masc. y Fem.|Neutro|Masc. y Fem.|Neutro |\n
+                |N|alt-ior|alt-ius|<p>alt-iores</p><p></p>|alt- iora|\n
+                |V|alt-ior|alt-ius|<p>alt-iores</p><p></p>|<p>alt- iora</p><p></p>|\n
+                |Ac|alt-iorem|alt-ius|alt-iores|alt-iora |\n
+                |G|alt-ioris|alt-ioris|alt-iorum|alt-iorum |\n
+                |Dt|alt-iori|alt-iori|<p>alt-ioribus</p><p></p>|alt- ioribus|\n
+                |Ab|alt-iori|alt-iore|alt-ioribus|alt-ioribus |\n
+                \n
+                ADJETIVOS GRADO SUPERLATIVO\n
+                \n
+                |`                              `Singular  |\n
+                | :- |\n
+                |`          `Masculino|Femenino|Neutro                                |\n
+                |N|fort-issimus|fort-issima|fort-issimum  |\n
+                |V|fort-issime|fort-issima|fort-issimum  |\n
+                |Ac|fort-issimum|fort-issimam|fort-issimum  |\n
+                |G|fort-issimi|fort-issimae|fort-issimi |\n
+                |Dt|fort-issimo|fort-issimae|fort-issimo |\n
+                |Ab|fort-issimo|fort-issima|fort-issimo|\n
+                \n
+                ADJETIVOS GRADO SUPERLATIVO\n
+                \n
+                |`                                   `Plural |\n
+                | :- |\n
+                |`          `Masculino|Femenino|Neutro                                |\n
+                |N|fort-issimi|fort-issimae|fort-issima  |\n
+                |V|fort-issimi|fort-issimae|fort-issima  |\n
+                |Ac|fort-issimos|fort-issimas|fort-issima  |\n
+                |G|fort-issimorum|fort-issimarum|fort-issimorum|\n
+                |Dt|fort-issimis|fort-issimis|fort-issimis |\n
+                |Ab|fort-issimis|fort-issimis|fort-issimis|\n
+                \n
+                alt-issimus,-issima,-issimum (el más alto)Siempre por la 1ª y 2ª  altus, -a, -um (alto)(Grado positivo)\n
+                \n
+                |`                                  `Singular  |\n
+                | :- |\n
+                |`             `Masculino|Femenino|Neutro |\n
+                |N|alt-issimus|alt-issima|alt-issimum  |\n
+                |V|alt-issime|alt-issima|alt-issimum |\n
+                |Ac|alt-issimum|alt-issimam|alt-issimum |\n
+                |G|alt-issimi|alt-issimae|alt-issimi |\n
+                |Dt|alt-issimo|alt-issimae|alt-issimo |\n
+                |Abl|alt-issimo        |alt-issima|alt-issimo|\n
+                \n
+                \n
+                |`                                  `Pural |\n
+                | :- |\n
+                |`             `Masculino|Femenino|Neutro |\n
+                |N|alt-issimi|alt-issimae|alt-issima  |\n
+                |V|alt-issimi|alt-issimae|alt-issima |\n
+                |Ac|alt-issimos|alt-issimas|alt-issima |\n
+                |G|alt-issimorum|alt-issimarm|alt-issimorum |\n
+                |Dt|alt-issimis|alt-issimis|alt-issimis |\n
+                |Abl|alt-issimis        |alt-issimis|alt-issimis|\n
+                \n
+                \n
+                |Comparativos y superlativos irregulares |\n
+                | :- |\n
+                |ADJETIVOS COMPARATIVOS Y SUPERLATIVOS REGULARES |\n
+                |Positivo|Comp de Superioridad|Superlativo |\n
+                |altus,-a,-um|altior, -ius «más alto»|altissimus,-a,-um altisimo|\n
+                |<p>fortis, -e</p><p></p>|<p>fortior, -ius «más valiente</p><p></p>|<p>fortissimus,-a,-um «el más </p><p>valiente»</p>|\n
+                \n
+                \n
+                |ADJETIVOS COMPARATIVOS Y SUPERLATIVOS IRREGULARES |\n
+                | :- |\n
+                |Positivo                      Comp de Superioridad                       Superlativo |\n
+                |bonus,-a,-um          melior,-ius «mejor                       optimus,-a,-um «el mejor, óptimo»|\n
+                |malus,-a,-um           peior,-ius «peor»                        pessimus,-a,-um «el peor,   pésimo»|\n
+                |magnus,-a,-um        maior,-ius «mayor»                  maximus,-a,-um «el más grande, enorme»|\n
+                |<p>parvus,-a,-um           minor,-us «menor»                       minimus,-a,-um «el más </p><p>`                                                                                                        `pequeño»</p>|\n
+                |multus,-a,-um            plus «más»                                      plurimum «el máximo»|\n
+                |multi,-ae,-a       plures, -a «más numeroso»      plurimi,-ae,-a «los más            numerosos»|\n
+                |vetus,-eris                  vetustior,-ius «anciano»                veterrimus,-a,-um «anciano decrépito»|\n
+                |dives,-                    ditior,-ius «más rico»                ditissimus,-a,-um «inmensamente rico»|\n
+                |iuvenis,-e                   iunior,-ius «más joven»                                            ------------- |\n
+                |senex,-icis                  senior «mayor, más viejo»                                        -------------|\n
+                \n
+                \n
+                \n
+                \n
+        </string>
+    <string name="lesson11">
+ **Los tiempos de perfectum de la 1era y 2da conjugación de verbos irregulares en el modo indicativo.** \n
+                \n
+                \n
+                |PRETÉRITO PERFECTO |\n
+                | :- |\n
+                |1era|2da|\n
+                |portavi|docui  |\n
+                |portavisti|docuisti  |\n
+                |portavit|docuit  |\n
+                |portavimus|docuimus  |\n
+                |portavistis|docuistis  |\n
+                |portavuerunt|docuerunt |\n
+                | |\n
+                |FUTURO PERFECTO |\n
+                |1era|2da|\n
+                |portavero|docuero  |\n
+                |portaveris|docueris  |\n
+                |portaverit|docuerit  |\n
+                |portaverimus|docuerimus  |\n
+                |portaveritis|docueritis  |\n
+                |portaverint|docuerint  |\n
+                ||\n
+                |PRETÉRITO PLUSCUAMPERFECTO|\n
+                |` `1era|2da|\n
+                |portaveram|docueram  |\n
+                |portaveras|docueras  |\n
+                |portaverat|docuerat  |\n
+                |portaveramus|docueramus  |\n
+                |portaveratis|docueratis  |\n
+                |portaverant|docuerant |\n
+                \n
+                - La 3\ persona del plural del pretérito perfecto termina a veces en -ere  en lugar de en erunt: \n
+                \n
+                portavere  =  portaverunt  =  llevaron / han llevado \n
+                \n
+                traere  =  traxerunt  =  arrastraron / han arrastrado \n
+                \n
+                Otros ejemplos: audivere; salutavere; discessere; monuere. \n
+                \n
+                Esta forma de tercera persona del plural se usa bastante en poesía. \n
+                \n
+                - Los verbos de la la conjugación que en su gran mayoría forman el tema de perfecto en -v-  suprimen a veces en estos tiempos dicha v y la vocal que le sigue. Por ejemplo: \n
+                \n
+                portasti  =  portavisti  = llevaste / has llevado \n
+                \n
+                laudiirat  =  laudaverat  = (él) había alabado\n
+                \n
+                - El futuro perfecto cuando aparece en proposiciones subordinadas se suele traducir al español por el presente de indicativo o subjuntivo (o incluso por pretérito perfecto de subjuntivo): \n
+                \n
+                Si me rogiiverit, respondebo.  Si me preguntas, te contestaré. \n
+                \n
+                Cum eum videris, redi.  Cuando lo veas, regresa. \n
+                \n
+                `                                      `Cuando lo hayas visto, regresa.\n
+                \n
+        </string>
+    <string name="lesson12">
+                missing
+        </string>
+    <string name="lesson13">
+                missing
+        </string>
+    <string name="lesson14">
+                missing
+        </string>
+    <string name="lesson15">
+                missing
+        </string>
+    <string name="lesson16">
+                missing
+        </string>
+    <string name="lesson17">
+                missing
+        </string>
+    <string name="lesson18">
+**Los pronombres demostrativos.**\n
+                \n
+                Los pronombres demostrativos pueden tener valor de sustantivo y de adjetivo. \n
+                \n
+                a) \**hic, haec, hoc\** se traduce: éste, ésta \n
+                \n
+                |     |Singular|\n
+                | - | - |\n
+                ||masculino|femenino|neutro|\n
+                |N|hic|haec|hoc|\n
+                |Ac|hunc|hanc|hoc|\n
+                |G|huius|huius|huius|\n
+                |Dat|huic|huic|huic|\n
+                |Ab|hoc|hac|hoc|\n
+                \n
+                \n
+                ||Plural|\n
+                | - | - |\n
+                |N|hi|hae|haec|\n
+                |Ac|hos|has|haec|\n
+                |G|horum|harum|horum|\n
+                |Dat|his|his|his|\n
+                |Ab|his|his|his|\n
+                \n
+                \n
+                b) **\Iste, ista, istud\** \n
+                \n
+                Se traduce: ése, ésa, eso\n
+                \n
+                \n
+                ||<p>Singular</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro|\n
+                |N|iste|ista|istud|\n
+                |Ac|istum|istam|istud|\n
+                |G|istius|istius|istius|\n
+                |Dat|isti|isti|isti|\n
+                |Ab|isto|ista|isto|\n
+                \n
+                \n
+                \n
+                ||<p>Plural</p><p></p>|\n
+                | :-: | :- |\n
+                ||masculino|femenino|neutro|\n
+                |N|<p>isti</p><p></p>|istae|ista|\n
+                |Ac|<p>istos</p><p></p>|istas|ista|\n
+                |G|istorum|istarum|istorum|\n
+                |Dat|istis|istis|istis|\n
+                |Ab|istis|istis|istis|\n
+                \n
+                c) **Ille, illa, illud** \n
+                \n
+                Se traduce: aquél, aquélla, aquello\n
+                \n
+                \n
+                \n
+                ||<p>Singular</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|ille|illa|illud|\n
+                |Ac|illum|illam|illud|\n
+                |G|illius|illius|illius|\n
+                |Dat|illi|illi|illi|\n
+                |Ab|illo|illa|illo|\n
+                \n
+                \n
+                ||<p>Plural</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|illie|illae|illa|\n
+                |Ac|illos|illas|illa|\n
+                |G|illorum|illarum|illorum|\n
+                |Dat|illis|illis|illis|\n
+                |Ab|illis|illis|illis|\n
+                \n
+                \n
+                **Los Pronombres Determinativos / Anafóricos** \n
+                \n
+                \n
+                \n
+                Los pronombres determinativos son:\n
+                \n
+                is, ea, id (pronombre anafórico)\n
+                \n
+                idem, eadem, idem \n
+                \n
+                ipse, ipsa, ipsum \n
+                \n
+                a) \**Is, ea, id \** \n
+                \n
+                Se traduce: éste, ésta \n
+                \n
+                ||<p>Singular</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|is|ea|id|\n
+                |Ac|eum|eam|id|\n
+                |G|eius|eius|eius|\n
+                |Dat|ei|ei|ei|\n
+                |Ab|eo|ea|eo|\n
+                \n
+                \n
+                \n
+                ||<p>Plural</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|Ii (ei)|eae|ea|\n
+                |Ac|eos|eas|id|\n
+                |G|eorum|earum|eius|\n
+                |Dat|iis (eis)|iis (eis)|iis (eis)|\n
+                |Ab|iis (eis)|iis (eis)|iis (eis)|\n
+                \n
+                \n
+                \n
+                b) \**Idem, eadem, idem\** \n
+                \n
+                Se traduce: el mismo, la misma\n
+                \n
+                \n
+                ||<p>Singular</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|idem|eadem|idem|\n
+                |Ac|eundem|eandem|iddem|\n
+                |G|eiusdem|eiusdem|eiusdem|\n
+                |Dat|eidem|eidem|eidem|\n
+                |Ab|eodem|eadem|eodem|\n
+                \n
+                \n
+                \n
+                ||<p>Plural</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|idem|eaedem|eadem|\n
+                |Ac|eosdem|easdem|eadem|\n
+                |G|eorumdem|earumdem|eorundem|\n
+                |Dat|iisdem|iisdem|iisdem|\n
+                |Ab|iisdem|iisdem|iisdem|\n
+                \n
+                \n
+                c) **\Ipse, ipsa, ipsum\**    Se traduce: el mismo\n
+                \n
+                ||<p>Singular</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|ipse|ipsa|ipsum|\n
+                |Ac|ipsum|ipsam|ipsum|\n
+                |G|ipsius|ipsius|ipsius|\n
+                |Dat|ipsi|ipsi|ipsi|\n
+                |Ab|ipso|ipsa|ipso|\n
+                \n
+                \n
+                ||<p>plural</p><p></p>|\n
+                | :- | :- |\n
+                ||masculino|femenino|neutro||\n
+                |N|ipsi|ipsae|ipsa|\n
+                |Ac|ipsos|ipsas|ipsa|\n
+                |G|ipsorum|ipsarum|ipsarum|\n
+                |Dat|ipsis|ipsis|ipsis|\n
+                |Ab|ipsis|ipsis|ipsis|\n
+                \n
+                \n
+                \n
+                \n
+        </string>
+    <string name="lesson19">
+                **El infinitivo. Valores   y uso.**\n
+                \n
+                El infinitivo latino se considera como un sustantivo verbal de género neutro, por tanto, podrá realizar las funciones propias del sustantivo latino y al mismo tiempo ser complementado (recuerda que es un verbo)\n
+                \n
+                |<p>Infinitivo de presente</p><p>Activo</p>|<p>tema de presente  -RE</p><p></p>||<p>ornare, videre, regere, </p><p>audire capere,</p>|\n
+                | :- | :- | :- | :- |\n
+                ||||\n
+                |Infinitivo de presente|tema de presente -RI|ornari, videri, regi, capi,|\n
+                |Pasivo|(1ª,2ª ,4ª conj.)|audiri|\n
+                ||tema de presente  -I (3ª conj.)||\n
+                |<p>Infinitivo de perfecto</p><p>activo</p>|<p>tema de perfecto  -ISSE</p><p></p>|<p>ornavisse, vidisse, regisse, </p><p>cepisse, audivisse.</p>|\n
+                |<p>Infinitivo de perfecto</p><p>Pasivo</p>|participio de perfecto pasivo en acusativo esse               |ornatum, -am, -um esse, visum,-am,|\n
+                |<p>Infinitivo de futuro</p><p>Activo</p>|<p>participio de futuro activo</p><p>en acusativo  esse</p>|<p>ornaturum, -am, -um esse, </p><p>visurum, -am, -um esse</p>|\n
+                |Infinitivo de futuro Pasivo|<p>participio de futuro pasivo</p><p>en acusativo esse</p>|Supino  iri|\n
+                \n
+                **Ejemplos:** \n
+                \n
+                INFINITIVO PRESENTE ACTIVO: portare  docere  trahere  audire  capere \n
+                \n
+                INFINITIVO PRESENTE PASIVO: portiri  doceri  trahi  audiri  capi \n
+                \n
+                INFINITIVO PERFECTO ACTIVO: portavisse  docuisse  traisse  { audivisse  cepisse { (O portasse)  (o audisse) \n
+                \n
+                INFINITIVO PERFECTO PASIVO: portatus esse  doctus esse  tractus esse  auditus esse  captus esse \n
+                \n
+                INFINITIVO FUTURO ACTIVO: portaturus esse docturus esse tracturus esse auditurus esse capturus esse \n
+                \n
+                Los participios portatus, doctus, portaturus, docturus, etc. que se usan para formar el infinitivo perfecto pasivo y el infinitivo futuro activo cambian sus terminaciones para concordar con el nombre o pronombre sujetos. \n
+                \n
+                INFINJTIVO FUTURO PASIVO: portatum iri  doctum iri  tractum iri  auditum iri  captum iri \n
+                \n
+                Las formas portatum, doctmm, etc. son el supino del verbo correspondiente y son invariables. \n
+                \n
+                **Valores de infinitivo**.- El infinitivo puede funcionar como un sustantivo neutro, por lo que podrá adquirir dos funciones: \n
+                \n
+                1) Sujeto: cuando va con verbos intransitivos o copulativos: \n
+                \n
+                Necesse est eis **amare*** - Es necesario para ellos amar. \n
+                \n
+                Necesse est eis mercedem **emere*** - Es necesario para ellos comprar mercancía. \n
+                \n
+                `    `b)   Complemento Directo: cuando va con verbos transitivos: \n
+                \n
+                Debeo grammathicam **docere** - Debo enseñar la gramática \n
+                \n
+                La oración de infinitivo.- Esta oración puede ser de dos tipos. Veamos:\n
+                \n
+                a) Oración concertada: una oración de infinitivo es concertada cuando el sujeto del verbo principal es el mismo que el de la oración de infinitivo, por tanto, la oración de infinitivo no tiene sujeto: \n
+                \n
+                Volo litteras et donum **mittere** - Quiero enviar unas letras y un regalo \n
+                \n
+                b) Oración no concertada: una oración de infinitivo no concertada se produce cuando el sujeto del verbo principal es distinto del sujeto de la oración de infinitivo, por tanto, la oración de infinitivo llevará un sujeto que estará en acusativo: \n
+                \n
+                Volo te grammathicam **docere** - Quiero que tú enseñes la gramática \n
+                \n
+                Se traduce al castellano anteponiendo un **que** y pasando el infinitivo a forma personal. \n
+                \n
+                Volebat Antonium villam **emisse** - Quería que Antonio hubiera comprado una casa \n
+                \n
+                Licet Caesarem legiones **conscribere** - Es preciso que César aliste las legiones\n
+                \n
+                ` `**Usos de los infinitivos** \n
+                \n
+                1  Con verbos como possum \puedo\, volo \quiero\, debeo \debo\. timeo \temo\, etc.: \n
+                \n
+                Cras proficisci volo  Quiero marcharme mañana. \n
+                \n
+                Senex festinee non poterat.  El anciano no podía ir de prisa. \n
+                \n
+                Iuvenis respondere timebat.  El joven remía responder: \n
+                \n
+                2  Con noli; nolite ordenándole a alguien que no haga algo ¡noli me culpare!  ¡NO me culpes! \n
+                \n
+                nolite hic manere!    iNo os quedéis aquí! \n
+                \n
+                3  Con frases impersonales como deciirum est, difficile est, etc.. \n
+                \n
+                Difficile mihi erit aequo animo loqui.    Me será difícil hablar serenamente. \n
+                \n
+                4 Con verbos impersonales como placet, licet, etc., funcionando gramaticalmente de sujeto: \n
+                \n
+                Liberis exire non licuit.  No se les permitió a los hijos salir: \n
+                \n
+                5  Como infinitivo \histórico\, indicando una o más acciones pasadas, para dar \n
+                \n
+                agilidad y viveza a la narración. Tiene sujeto en nominativo. Se traduce por pretérito imperfecto o pretérito perfecto de indicativo castellano: \n
+                \n
+                Tum demum omnes desperare; in vias ruere, clamare, huc illuc currere. \n
+                \n
+                Entonces por fin todos perdieron la esperanza; se lanzaban a las calles, \n
+                \n
+                gritaban, corrían de acá para allá. \n
+                \n
+                6  En proposiciones subordinadas sustantivas (25.5): \n
+                \n
+                Hospites ancillam optime cantgvisse putiiverunt. \n
+                \n
+                Los invitados pensaron que la esclava había cantado muy bien. \n
+                \n
+                Credo milites fidem serviitürtis esse. \n
+                \n
+                Creo que los soldados cumplirán su palabra. \n
+                \n
+                7  Otros ejemplos: \n
+                \n
+                - Facile erat sacerdotibus verum cognoscere. \n
+                - Non licet vobis in via ludere. \n
+                - NoIi me tangere! \n
+                - Navem reficere tandem potermus. \n
+                - Centurio audivit omnes captivos effugisse. \n
+                - Pecuniam patri reddere debes. \n
+                - Dux epistulam statim scribi iussit. \n
+                - Spectiitores iratissimi erant. Exclamare; gladiatorem vituperare; etiam lapides iacere; totum amphitheiitrum strepitü compleri.\n
+        </string>
+    <string name="lesson20">
+                **El participio. Usos de los participios.** \n
+                \n
+                En latín los participios tienen 3 tiempos, presente, perfecto y futuro.\n
+                \n
+                El participio es una forma adjetiva del verbo que puede funcionar tanto como adjetivo o como verbo. \n
+                \n
+                - El participio funciona como adjetivo y puede desempeñar dentro de la oración todas las funciones del sustantivo \n
+                  - Modificador de un sustantivo. Ejemplo:  Est al que acompaña y con el que concuerda en género, número y caso: metus opinio impendentis mali,  «el miedo es la creencia de un mal inminente» \n
+                - Atributo y complemento predicativo. Ejemplo: Ad cenam sitiens et esuriens uenit, «vino a la cena sediento y hambriento» \n
+                - Adjetivo sustantivado. Se usa como un sustantivo para indicar inminencia. Se traduce como «los que van a… Ejemplo:  Aue Caesar, morituri te salutant!,  «iSalve, César, los que van a morir te \n
+                \n
+                saludan!» \n
+                \n
+                - También puede actuar, dentro de una oración, como Complemento Predicativo. Ejemplo: Caesar quietus apparuit,«Cesar apareció descansado» \n
+                - El participio funciona como verbo y puede formar oraciones subordinadas adjetivas: \n
+                - Construcción de participio concertado. El participio complementa a una palabra de la oración con la cual concuerda, y funciona como una oración subordinada (temporal, causal, consecutiva, condicional, concesiva). Ejemplo:  Hostes, noctem ueriti, in siluas refugerunt,  «los enemigos, porque temían la noche («temiendo la noche»), se refugiaron en las selvas», y como funciona como verbo puede llevar complementos propios:  Equum captum a militibus miserunt,«enviaron el caballo capturado por los soldados». Se traduce por gerundio, participio u oración de relativo, pero teniendo en cuenta que la acción del participio, respecto a la del verbo principal, puede ser: \n
+                - simultánea si es participio PRESENTE: Puerum legentem vidi,«vi al niño que leía» o «leyendo»; Puerum legentem video,«veo al niño que lee» o «leyendo» \n
+                - anterior y pasiva si es participio PASADO: Miles captus clamitabat,«el soldado que había sido capturado (o «habiendo sido capturado») gritaba». \n
+                - Posterior en el participio FUTURO: Vir ducturus exercitum venit,«vino el hombre que va a conducir (o «que conducirá») al ejército». \n
+                - Construcción de ablativo absoluto. El participio en ablativo (de pasado o de presente) forma una cláusula independiente y concuerda con otra palabra(su sujeto) que también aparece en ablativo. Generalmente suele ir entre comas y puedellevar complementos. Si se trata del participio de presente, por ser activo, puede llevar CD. Se puede traducir por el participio castellano seguido del sustantivo que le acompaña sin ningún tipo de preposición, o por una oración adverbial: Ejemplo: libro lecto,«leído el libro» o «después de leer el libro»;  te veniente, «viniendo tú» o «al venir tú»; duce portante tubam, «llevando el jefe una trompeta»; puellae rosa porta «llevada la rosa a la niña»; voluptate imperante,  «dominando el placer»;  Roma capta «tomada Roma», o «habiendo sido tomada Roma». Pueden darse casos en los que falte el participio, sobreentendiéndose el del verbo  sum: Cicerone consule  «Cicerón siendo cónsul», o «bajo el consulado de Cicerón» \n
+                \n
+                **El participio de presente tiene solamente formas activas.** \n
+                \n
+                Se forma añadiendo -ns al tema de presente.\n
+                \n
+                Se añade -ans, -ens y -iens \n
+                \n
+                Ejemplos:\n
+                \n
+                laudare: laudans, laudantis (que elogia) \n
+                \n
+                habere: habens, habentis (que tiene) \n
+                \n
+                mittere: mittens, mittentis (que envía)\n
+                \n
+                audire: audiens, audientis (que escucha) \n
+                \n
+                El participio presente se declina como los adjetivos de segunda clase, por ejemplo como ingens, excepto en el ablativo singular que unas veces termina en -e  y otras en -i. Termina en -i  cuando se usa el participio como un adjetivo, p. ej.  a puero dormienti \por el niño dormido\; y lo hace en -e  cuando se usa el participio en una frase de ablativo absoluto, p. ej. Puero dormiente \(estando) durmiendo el niño\, \mientras duerme el niño\. \n
+                \n
+                |**1era**|**2da**|**3era**|**3era**|**4ta**|\n
+                | :- | :- | :- | :- | :- |\n
+                |**portans**|**docens**|**trahens**|**audiens**|**capiens** ||\n
+                \n
+                **Participio de perfecto activo**\n
+                \n
+                El participio perfecto se forma con el tema de supino del verbo (aparece en el enunciado de cada verbo) y la terminación **-us**, **-a**, **-um**. \n
+                \n
+                Ejemplos:\n
+                \n
+                El verbo laudare se enuncia así: laudo, laudare, laudavi, laudatum. La forma laudatum es el supino y de ahí se toma el tema para formar el participio de perfecto: laudat-us, -a, -um (elogiado).\n
+                \n
+                habeo, habere, habui, habitum ? habitus, a, um (tenido) \n
+                \n
+                mitto, mittere, misi, missum ? missus, a, um (enviado) \n
+                \n
+                audio, audire, audivi, auditum ? auditus, a, um (oído) \n
+                \n
+                Se declina como los adjetivos del primero grupo. \n
+                \n
+                \n
+                |**1era**|**2da**|**3era**|**3era**|**4ta**|\n
+                | :- | :- | :- | :- | :- |\n
+                |<p>amatus, a, um</p><p>amado</p>|<p>habitus, a, um</p><p>tenido</p>|<p>dictus, a, um</p><p>dicho</p>|<p>captus, a, um</p><p>cogido</p>|<p>auditus, a, um </p><p>oído</p>|\n
+                \n
+                **Participio de perfecto pasivo** \n
+                \n
+                |**1era**|**2da**|**3era**|**3era**|**4ta**|\n
+                | :- | :- | :- | :- | :- |\n
+                |<p>amatus, a, um</p><p>habiendo sido amado</p>|<p>habitus, a, um</p><p>habiendo sido tenido</p>|<p>dictus, a, um</p><p>habiendo sido dicho</p>|<p>captus, a, um</p><p>habiendo sido cogido</p>|<p>auditus, a, um </p><p>habiendo sido oído</p>|\n
+                \n
+                El participio perfecto pasivo y el participio futuro se declinan como bonus \n
+                \n
+                **Participio futuro**\n
+                \n
+                |**1era**|**2da**|**3era**|**3era**|**4ta**|\n
+                | :- | :- | :- | :- | :- |\n
+                |<p>amaturus, ura, urum</p><p>el que va a amar</p>|<p>habiturus, ura, urum</p><p>el que va a tener</p>|<p>dicturus, ura, urum</p><p>el que va a decir</p>|<p>capturus, ura, urum</p><p>el que va a coger</p>|<p>auditurus, ura, urum</p><p>el que va a oír</p>|\n
+                \n
+                1  Participio presente \n
+                \n
+                canis dominum intrantem vidit. \n
+                \n
+                El perro vio a su amo entrando. \n
+                \n
+                El perro vio entrar a su amo. \n
+                \n
+                El perro vio a su amo cuando (éste) entraba. \n
+                \n
+                Principie Campania redeunti complures senatores obviam ierunt. \n
+                \n
+                Muchos senadores salieron al encuentro del emperador que regresaba \n
+                \n
+                de Campania. \n
+                \n
+                Cuando el emperador regresaba de Campania, muchos senadores le salieron al encuentro. \n
+                \n
+                2  Participio de perfecto activo (sólo los verbos deponentes) \n
+                \n
+                senex, multas iniurias passus, auxilium  a patrono petivit. \n
+                \n
+                El anciano, habiendo sufrido muchas injusticias, pidió ayuda a su patrono. \n
+                \n
+                3  Participio perfecto pasivo \n
+                \n
+                Fures, ad iudicem ducti, veniam petiverunt. \n
+                \n
+                Los ladrones, llevados ante el juez, pidieron indulgencia. \n
+                \n
+                Anulum inventum ad centurionem attulimus. \n
+                \n
+                Llevamos el anillo, una vez encontrado, al centurión. \n
+                \n
+                Después de haber encontrado el anillo, lo llevamos al centurión. \n
+                \n
+                mercatores navem conscensuros vidi. \n
+                \n
+                Vi a unos mercaderesque estaban a punto de subir a un barco. \n
+                \n
+                Vi a unos mercaderes que ve disponían a subir a un barco. \n
+                \n
+                4 A veces el nombre o pronombre al que debería referirse el participio no existe. En este caso el participio está sustantivado y hay que traducirlo precedido del artículo: \n
+                \n
+                ingens multitudo fugientium vias omnes complebat. \n
+                \n
+                La enorme multitud de los que huían llenaba todas las calles. \n
+                \n
+                5 Otras veces el nombre o pronombre al que se refiere el participio está omitido \n
+                \n
+                por tratarse del sujeto evidente del verbo de la oración: \n
+                \n
+                Ab amicis incitatus, in Circo Maximo certavit. \n
+                \n
+                Incitado por los amigos compitió en el Circo Máximo. \n
+                \n
+                6  Con un nombre o pronombre en ablativo (frase de ablativo absoluto), desligado gramaticalmente del resto de la oración: \n
+                \n
+                Anulo invento, omnes gaudebant. \n
+                \n
+                Una vez encontrado el anillo, todos estaban contentos. \n
+                \n
+                (Si en este ejemplo se suprimiera *anulo invento*, las palabras restantes formarían una oración con sentido). \n
+                \n
+                Duce loquente, nuntius accurrit. \n
+                \n
+                Estando hablando el general, llegó corriendo un mensajero. \n
+                \n
+                Mientras estaba hablando el general, llegó corriendo un mensajero. \n
+                \n
+                Domina egressa, servi garrire coeperunt. \n
+                \n
+                Una vez ida la señora, los esclavos comenzaron a charlar: \n
+                \n
+                En cuanto se marchó la señora, los esclavos comenzaron a charlar. \n
+                \n
+                Militibus instructis, tuba sonuit. \n
+                \n
+                Una vez formados los soldados, sonó la trompeta. \n
+                \n
+                Nota aclaratoria.\n
+                \n
+                Para ejemplos de frases en ablativo absoluto compuestas por nombres y adjetivos, sin participios, se retomara en la lección de participio concertado y ablativo absoluto.  \n
+                \n
+                7  Ejemplos de las diferentes formas de traducir los participios: \n
+                \n
+                forum ingressi, ...  Habiendo entrado en el foro, ... \n
+                \n
+                `                            `Cuando entraron en foro,  ... \n
+                \n
+                `                            `Después de entrar en el foro,  ... \n
+                \n
+                `                            `Entraron en el foro y... \n
+                \n
+                `                            `Puesto que habían entrado en el foro,  ... \n
+                \n
+                `                            `Aunque habían entrado en el foro,  ... \n
+                \n
+                `                            `Al entrar en el foro,... \n
+                \n
+                `                            `Entrando en el foro,...  etc. \n
+                \n
+                in horto laborans,   Estando trabajando en el jardín ,... \n
+                \n
+                `                             `Mientras trabajaba en el jardín ,... \n
+                \n
+                `                            `Como estaba trabajando en el jardín, ... \n
+                \n
+                `                            `Durante su trabajo en el jardín,... etc. \n
+                \n
+                La forma más apropiada de traducir un participio dentro de una oración cualquiera depende del sentido de la oración completa. \n
+                \n
+                8  Otros ejemplos:\n
+                \n
+                \n
+                \n
+                1 Statuae deorum, ex auro factae, ad templum portabantur. \n
+                \n
+                2 ponte deleto, nemo flumen transire poterat. \n
+                \n
+                3 Ecce! duos elephantos video per viam procedentes. \n
+                \n
+                4 Dux, milites hortatus, principia intravit. \n
+                \n
+                5 Poeta recitante, fur pecuniam spectatoribus auferabai. \n
+                \n
+                6 Puer, pugnantium clamore perterritus, fugit. \n
+                \n
+                7 Romani urbem captam incenderunt. \n
+                \n
+                8 Romani, urbe capta, valde gaudebant. \n
+                \n
+                9 Senex moriturus filios ad se vocavit. \n
+                \n
+                10 Amico ex Italia discedenti centum denarios dedi. \n
+                \n
+                11 Ab Imperatore ipso laudata, risit. \n
+                \n
+                Ejercicio\n
+                \n
+                1. Identifica el participio en cada una de las oraciones anteriores, clasifícalo, su función sintáctica e indica el nombre que vaya describiendo (cuando lo haga). \n
+        </string>
+    <string name="lesson21">
+**Técnicas para la traducción de un texto**\n
+                \n
+                Un texto latino nunca debe traducirse palabra por palabra, pues las estructuras gramaticales pueden ser muy diferentes entre el latín y el español, y es necesario fijarse en ellas antes de pasar a descubrir el significado semántico de las palabras latinas. Para traducir bien, sigue estas normas:\n
+                \n
+                a)  LECTURA PREVIA DEL TEXTO\n
+                \n
+                La primera toma de contacto podemos reconocer muchas palabras (tiempos verbales, nexos, palabras cuyo significado conocemos, preposiciones, etc.). De esta manera se obtiene una visión global de lo que se va a traducir.\n
+                \n
+                b)  IDENTIFICACIÓN DE VERBOS\n
+                \n
+                Es importante detectar todas las formas verbales que tiene el texto, incluidos participios e infinitivos, pues por cada forma verbal tendremos una oración distinta. De paso podemos realizar el análisis morfológico de dichas formas.\n
+                \n
+                c)  IDENTIFICACIÓN DE ORACIONES\n
+                \n
+                Por cada verbo tendremos una oración. En ese caso se trata de una oración compuesta. \n
+                \n
+                Ahora debemos confirmar la relación sintáctica entre las mismas, si son coordinadas, yuxtapuestas o subordinadas. La clave nos la darán los nexos.\n
+                \n
+                d)  RÉGIMEN SINTÁCTICO DE CADA ORACIÓN\n
+                \n
+                Una vez tenemos delimitados los períodos, es hora de analizar oración por oración. Lo primero que debemos hacer es saber qué tipo de verbo tenemos:\n
+                \n
+                \\-  Verbo transitivo: siempre lleva CD,por tanto buscaremos un Acusativo sin preposición.\n
+                \n
+                \\-  Verbo copulativo: siempre lleva Atributo, buscaremos un nominativo\n
+                \n
+                \\-  Verbo pasivo: nunca lleva CD, y a veces un C. Agente.\n
+                \n
+                \\-  Verbo intransitivo: nunca lleva CD, y normalmente lleva un CCT(preposición )\n
+                \n
+                e)  BÚSQUEDA DEL SUJETO\n
+                \n
+                El sujeto, si lo hay (no es obligatorio), siempre estará en el mismo número que el verbo (singular o plural), y normalmente está en nominativo (salvo en una oración de infinitivo).\n
+                \n
+                f)  OTROS COMPLEMENTOS\n
+                \n
+                Analizamos aquello que quede: preposiciones  ac. o abl. (CC), dativos, genitivos, etc.\n
+                \n
+                g)  TRADUCCIÓN\n
+                \n
+                Es el momento más importante, ya que si no traducimos bien, a pesar de tener el análisis correcto, no hacemos nada. Para esta ardua tarea, ten en cuenta varios consejos:\n
+                \n
+                \\1. Corroborar que hemos traducido bien los tiempos verbales y los números (sing./pl.)\n
+                \n
+                \\2. Traducir cada período oracional por separado.\n
+                \n
+                \\3. Fijarse muy bien en el régimen sintáctico: el CD, el sujeto, los circunstanciales.\n
+                \n
+                \\4. Emplear la estructura sujeto – verbo – predicado.\n
+                \n
+                \\5. Tener cuidado si está en voz pasiva o es una oración de infinitivo o ablativo absoluto.\n
+                \n
+                \\6. La traducción debe tener un sentido lógico, tenga que ver con el contexto planteado.\n
+        </string>
+    <string name="lesson22">
+                missing
+        </string>
+    <string name="lesson23">
+                missing
+        </string>
+    <string name="lesson24">
+                missing
+        </string>
 </resources>

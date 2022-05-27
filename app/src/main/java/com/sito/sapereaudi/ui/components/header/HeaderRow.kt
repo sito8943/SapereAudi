@@ -15,7 +15,6 @@ fun HeaderRow(backOn: String = "",text: String = "", navController: NavControlle
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(bottom = 20.dp)
             .background(ButtonSalmon),
         horizontalArrangement = Arrangement.Start,
         verticalAlignment = Alignment.CenterVertically

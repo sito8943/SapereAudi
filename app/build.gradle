@@ -51,6 +51,11 @@ android {
 dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 
+    // markdown
+    implementation 'com.github.mukeshsolanki:MarkdownView-Android:2.0.0'
+    // rich text
+    implementation("com.halilibo.compose-richtext:richtext-ui:0.9.0")
+
     //navigation
     implementation "androidx.navigation:navigation-compose:2.4.0-alpha09"
 
